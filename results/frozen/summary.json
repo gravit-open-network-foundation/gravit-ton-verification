@@ -1,0 +1,15 @@
+{
+ "accounts": 180,
+ "accounts_that_sent_value_since_freeze": 9,
+ "meta": {
+  "config_param": 44,
+  "count": 180,
+  "fetched_at": "2026-10-28T08:54:18Z",
+  "source": "https://tonapi.io/v2",
+  "suspended_until": 1803189600
+ },
+ "successful_transactions_since_freeze": 11910,
+ "total_balance_ton": 1081402516.574787,
+ "transactions_since_freeze": 23012,
+ "value_sent_since_freeze_ton": 24802.862403893
+}
