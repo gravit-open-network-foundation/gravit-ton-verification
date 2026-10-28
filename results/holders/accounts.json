@@ -1,0 +1,2002 @@
+[
+ {
+  "rank": 1,
+  "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
+  "label": "Elector Contract",
+  "kind": "elector (validator stakes held by the protocol)",
+  "balance_ton": 1371209613.466,
+  "share_of_supply_pct": 25.973,
+  "providers_differ_by_ton": 11.814,
+  "last_activity": 0
+ },
+ {
+  "rank": 2,
+  "address": "0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7",
+  "label": "TON Believers Fund",
+  "kind": "contract: locker",
+  "balance_ton": 1245901479.816,
+  "share_of_supply_pct": 23.599,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793189737
+ },
+ {
+  "rank": 3,
+  "address": "0:66cd6e30625156d2d881823e6c3f50a04a52dd62cf95a633d633ba0f60f61640",
+  "label": "thedns-tg-channell.ton",
+  "kind": "wallet",
+  "balance_ton": 248223656.443,
+  "share_of_supply_pct": 4.702,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793136964
+ },
+ {
+  "rank": 4,
+  "address": "-1:e69571e7b9f58edfebefa297e547f36920532289dbe9ff1b76d107fcbac30104",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 112400335.046,
+  "share_of_supply_pct": 2.129,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791017863
+ },
+ {
+  "rank": 5,
+  "address": "0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3",
+  "label": "Telegram",
+  "kind": "owner of validator stake (part 2)",
+  "balance_ton": 102424467.669,
+  "share_of_supply_pct": 1.94,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 6,
+  "address": "0:4fe26ce90c8cb02f5495f96a7d66e041973a6b47d7974204981845e25041e6ef",
+  "label": "tme-funstat.ton",
+  "kind": "wallet",
+  "balance_ton": 99337700.708,
+  "share_of_supply_pct": 1.882,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793136964
+ },
+ {
+  "rank": 7,
+  "address": "0:5e69bec3dfc448c32a5e81b37b619810cf00db6fc41f30cc18f28b89737a8f97",
+  "label": "Fragment",
+  "kind": "wallet",
+  "balance_ton": 95371898.023,
+  "share_of_supply_pct": 1.806,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793198349
+ },
+ {
+  "rank": 8,
+  "address": "-1:19bd614293ae2e6dd4fb93d7c00e50000d95b6a14784d05fff84d031e6f990db",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 87810798.446,
+  "share_of_supply_pct": 1.663,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343196
+ },
+ {
+  "rank": 9,
+  "address": "0:0ca0f05a684fee77cf2989df7f016ee18d6573ea159f397c2626d01d497ab8a6",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 69275201.903,
+  "share_of_supply_pct": 1.312,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 10,
+  "address": "-1:660ecab3220da2f1f770d016fb50669f03719cd6a5f92188e9e80399c0695fbe",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 58445004.413,
+  "share_of_supply_pct": 1.107,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343196
+ },
+ {
+  "rank": 11,
+  "address": "-1:ce5f3fe4b464c70a56fc6abccbb775c48e5253c3d2c46318c6bd224d7dfefd96",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 58243498.3,
+  "share_of_supply_pct": 1.103,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 12,
+  "address": "-1:fc3d252d2b2fd4f8964348d50da8de5c56c9fd39126a4bddcbe8344cf476eca1",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 54271398.252,
+  "share_of_supply_pct": 1.028,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 13,
+  "address": "0:f8b8635d0786b77f9da660e65fd31d670a675dd4302facba692f46b571eb5360",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 53400000.0,
+  "share_of_supply_pct": 1.011,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793155337
+ },
+ {
+  "rank": 14,
+  "address": "0:670da2f6910dcf15416ed4d21894770f16ee1b379b068dac3725188cb50109c9",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 46215000.146,
+  "share_of_supply_pct": 0.875,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791393145
+ },
+ {
+  "rank": 15,
+  "address": "0:d3ffbc4df7ac8eaa6e7ec45a6f857d432f6195152990b4dc4cd917e27c7e20e3",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 42722047.304,
+  "share_of_supply_pct": 0.809,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343283
+ },
+ {
+  "rank": 16,
+  "address": "-1:d0d9b5213a7e0c03a3873c58bfe9b9a60f2ab17cd3ded31675373b958378999d",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 40737198.274,
+  "share_of_supply_pct": 0.772,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 17,
+  "address": "-1:9635d332838598e3bed341b7115d74586894f14dcb0c5c21426aa36c24ec766d",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 39935598.271,
+  "share_of_supply_pct": 0.756,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 18,
+  "address": "0:408da3b28b6c065a593e10391269baaa9c5f8caebc0c69d9f0aabbab2a99256b",
+  "label": "Fragment",
+  "kind": "wallet",
+  "balance_ton": 36400494.584,
+  "share_of_supply_pct": 0.689,
+  "providers_differ_by_ton": 37.5,
+  "last_activity": 1793198382
+ },
+ {
+  "rank": 19,
+  "address": "-1:8ca766a670559cfd65192e9eeed29c7ec5a1544c8bd9db7e5b6e4c5e663ff42f",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 36131899.244,
+  "share_of_supply_pct": 0.684,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 20,
+  "address": "-1:dae40ee38de9a0f542319bca8a0c90cee84c75cb4a8860a1efd72e89576a5fd0",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 30493398.228,
+  "share_of_supply_pct": 0.578,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 21,
+  "address": "-1:8e9735c300c1a005649a19b0a1dde75d38c2904351714a695ced416fca0d052e",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 29736998.329,
+  "share_of_supply_pct": 0.563,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 22,
+  "address": "-1:3eb1651efaaf65221a9b43cb849fdcead2c8b6758c2654d93bb80825988cefe8",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 28670498.248,
+  "share_of_supply_pct": 0.543,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 23,
+  "address": "-1:a83d524ce9f18ff4e0be3dcccc51d88a3cd7f0914aede1eb258335d7118d2a08",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 28636098.252,
+  "share_of_supply_pct": 0.542,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 24,
+  "address": "-1:8ea7ce472073d6dfc6d11be7084d384db4dec32cc3cd5ee39cb6194bc16210e0",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 28598503.439,
+  "share_of_supply_pct": 0.542,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 25,
+  "address": "-1:02a28d6b20a24a05477cfcea76c7d3e7eaa2a9ccaf21897477ea990039bb25b2",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 28197898.256,
+  "share_of_supply_pct": 0.534,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 26,
+  "address": "0:12baed3db679ed583968aa45871e4088bb27708e474679897851d58000ff8d24",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 28097299.592,
+  "share_of_supply_pct": 0.532,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343288
+ },
+ {
+  "rank": 27,
+  "address": "-1:8a49896dd0a389eaf292a3573cdfb37ff4b89c4c9965d8c83b1db8b1edbb2f20",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 28070698.384,
+  "share_of_supply_pct": 0.532,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 28,
+  "address": "-1:66d44782557077d989b3883aa7499be3933cde99d73d1bca42aed3d529fb173f",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 27895198.25,
+  "share_of_supply_pct": 0.528,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 29,
+  "address": "-1:6680f4d15366a1c672ad2f0b3eea20770260630f70582ed008a6a27275a8b3b2",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 27710498.384,
+  "share_of_supply_pct": 0.525,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 30,
+  "address": "-1:35f14297cde39e6f3e927f4feb76aed94a084f57e8abe21c5455f34da008f7b9",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 27668998.27,
+  "share_of_supply_pct": 0.524,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 31,
+  "address": "-1:d28d64b320b0a0530ab88a00c3104defdd27f4034cf03b9e5a584f8b6332c6a4",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 26894998.257,
+  "share_of_supply_pct": 0.509,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 32,
+  "address": "-1:01b573bd6dc4cc5e383d6e08af2a1e258499995903cfebfadbf6f7e39533f914",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 26596998.254,
+  "share_of_supply_pct": 0.504,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 33,
+  "address": "-1:3dc61faecbceb4fa609cbd2f3370052cf1b0299b12c6ca00cb10a8d493944bfb",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 26489898.246,
+  "share_of_supply_pct": 0.502,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 34,
+  "address": "0:4365d8f3b0daa7fc29e273a935daad936cac77f3411d0884b6f9e163e21a0053",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 26101299.576,
+  "share_of_supply_pct": 0.494,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343251
+ },
+ {
+  "rank": 35,
+  "address": "-1:ef03ac917e6b763f85079f196b4146457019cabb1f262f678ca8182978c14fa2",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 26093198.2,
+  "share_of_supply_pct": 0.494,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 36,
+  "address": "-1:28e8033db1467cacea8b158f0f61e682de06e8a5947504c904f1f703d2be4d9e",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 25997998.255,
+  "share_of_supply_pct": 0.492,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 37,
+  "address": "-1:dfbeb774841a15254c688bbc07d7bdd993c34f8b256fc61e48a184a311865b3a",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 25500298.734,
+  "share_of_supply_pct": 0.483,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 38,
+  "address": "-1:67ce3e9105ce2643aa779e0ee6189eeda7b31bcc44617bba1b90cf40d309c208",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 25497199.349,
+  "share_of_supply_pct": 0.483,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 39,
+  "address": "-1:6b53efc00270641c1ef54c80b742f51fe4b700b2f8f40782286330172e910577",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 25090198.252,
+  "share_of_supply_pct": 0.475,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 40,
+  "address": "-1:4bca71c72a007163afa5f96fdd58df82b464f6fe38b9acddc4cce23ea7dcd611",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 25002198.346,
+  "share_of_supply_pct": 0.474,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 41,
+  "address": "-1:6131defc8334a256c2b4cf3d001ed1236bcc7552807f34364c8e7fa5f3a3502b",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 23395798.226,
+  "share_of_supply_pct": 0.443,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 42,
+  "address": "-1:3414d2793493b8fb44309550167245195dd93e3df6037b10d9d7e8eef52c6117",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 23298798.232,
+  "share_of_supply_pct": 0.441,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 43,
+  "address": "-1:df7486d3868a0fb38febd8313f67a66c5b27097472e7b2e2802474dc6da65a8a",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 23237098.232,
+  "share_of_supply_pct": 0.44,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 44,
+  "address": "0:3e92e07dc8df4fecb249f5600fc7529d3e848a59f3b6bf36fd8ad21dd7f97f0e",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 22101023.694,
+  "share_of_supply_pct": 0.419,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 45,
+  "address": "0:7f97f36dda3f7dedc9e12f8c09c4f89e7fbc17527ab3f67de4c3b155297a56e4",
+  "label": "Bybit 7",
+  "kind": "wallet",
+  "balance_ton": 15039581.017,
+  "share_of_supply_pct": 0.285,
+  "providers_differ_by_ton": -4.468,
+  "last_activity": 1793198374
+ },
+ {
+  "rank": 46,
+  "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
+  "label": "Bybit 9",
+  "kind": "wallet",
+  "balance_ton": 15034800.227,
+  "share_of_supply_pct": 0.285,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793198162
+ },
+ {
+  "rank": 47,
+  "address": "0:d8e3e2ad5716b0654fd5bdaeca4ce865871f07a348c8d1a87279b613e58b8991",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 14548062.091,
+  "share_of_supply_pct": 0.276,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793183987
+ },
+ {
+  "rank": 48,
+  "address": "0:82ecce5253e941958fcb86607f1aaaea29db3554f5382ac2ed3cbaf30c35509c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 11660000.253,
+  "share_of_supply_pct": 0.221,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 49,
+  "address": "-1:f35f607cbfca349f6523f6b48d333d9dc90cdab917aad07890cb7c4346c98504",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 10000000.063,
+  "share_of_supply_pct": 0.189,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343197
+ },
+ {
+  "rank": 50,
+  "address": "0:d9e3639725f647607aaf031537f2145fb50a2e665885e5a4f51b1a1b6b59cc8a",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 9949306.2,
+  "share_of_supply_pct": 0.188,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791393167
+ },
+ {
+  "rank": 51,
+  "address": "0:7a0bb61a02aa5cf88c622e45b43e480005f33ec63db2228c08141aa3d3c89583",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 9300000.253,
+  "share_of_supply_pct": 0.176,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 52,
+  "address": "-1:dd24c4a1f2b88f8b7053513b5cc6c5a31bc44b2a72dcb4d8c0338af0f0d37ec5",
+  "label": "ETH Bridge",
+  "kind": "unknown or not deployed",
+  "balance_ton": 9296576.36,
+  "share_of_supply_pct": 0.176,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 0
+ },
+ {
+  "rank": 53,
+  "address": "0:14f4e5546a59d0ac509a7704d6976a7ceb2549e2307397414d62474e1c8bf96e",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 9115799.423,
+  "share_of_supply_pct": 0.173,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088990
+ },
+ {
+  "rank": 54,
+  "address": "0:04d5a89371a5bfcac08c73f1d3225b5076f4b1cbe97a8c1fb27aba9241254c0b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 8000000.134,
+  "share_of_supply_pct": 0.152,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 55,
+  "address": "0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf",
+  "label": ".ton DNS",
+  "kind": "contract: nft_collection",
+  "balance_ton": 7963568.62,
+  "share_of_supply_pct": 0.151,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793198237
+ },
+ {
+  "rank": 56,
+  "address": "0:66dea142db57c442f196670de79ef93dc216ad20da9d03012b456dc14d58816d",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 7710700.162,
+  "share_of_supply_pct": 0.146,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 57,
+  "address": "0:c67d7d4fbb84ac1de8f0c1d1f441b4378747cb04c7399e68969b81f8270fdab3",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 7600000.129,
+  "share_of_supply_pct": 0.144,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 58,
+  "address": "0:0794a10a93e3580024f1bdeba892ab8ce7707c6fdc62c1ea9f3618b3fbf9e169",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 7007300.456,
+  "share_of_supply_pct": 0.133,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 59,
+  "address": "0:26368f28e55817b66d88d54a5bf34630dd61579a912fcb852c528bebbd539976",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 6708100.137,
+  "share_of_supply_pct": 0.127,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 60,
+  "address": "0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf",
+  "label": "Hipo Treasury",
+  "kind": "unknown or not deployed",
+  "balance_ton": 6019457.455,
+  "share_of_supply_pct": 0.114,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793196333
+ },
+ {
+  "rank": 61,
+  "address": "0:797a4962ae0bddbea152970f48f71b8a1a4e8a6478be32ed6d1c7cd18fed6b4e",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5808900.148,
+  "share_of_supply_pct": 0.11,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 62,
+  "address": "0:ca1d9edeef40b3a9dbd9082f3767859547c3ce0bf641d09d58e33a3cf06fb309",
+  "label": "Binance Hot Wallet",
+  "kind": "wallet",
+  "balance_ton": 5668136.84,
+  "share_of_supply_pct": 0.107,
+  "providers_differ_by_ton": -140.726,
+  "last_activity": 1793198404
+ },
+ {
+  "rank": 63,
+  "address": "0:4d4f6ded863a6c755dbb93564a20baa22d5411ac5aae3da1488a4e5dd7592340",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5406600.619,
+  "share_of_supply_pct": 0.102,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 64,
+  "address": "0:dfe09dc789cda34f47c20c44e749f5fda2d62c5e9e0e88d0b87d3e4d85333076",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5204097.05,
+  "share_of_supply_pct": 0.099,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 65,
+  "address": "0:3d6d25e7d39bb108eed5ce2973ba237ca466ab37ae73d5ebe69c92b486806692",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5100201.18,
+  "share_of_supply_pct": 0.097,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 66,
+  "address": "0:1cd1ac28b2c45175b32a27d47f0a2320a5914bd9db0d613305736becaf5996cd",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5100000.118,
+  "share_of_supply_pct": 0.097,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 67,
+  "address": "0:cebd01919b6a7c96f6f4229a3ae06097cc496ff3e4c0cbc30aa1d36b69dd6935",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5000001.101,
+  "share_of_supply_pct": 0.095,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 68,
+  "address": "0:f056d51a9681e3226311a9eeaa3b0b7e4c97d73de7b28ab1ad325ac1fc70c4fc",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 5000000.19,
+  "share_of_supply_pct": 0.095,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 69,
+  "address": "0:1bd8aa15fdaff4e7d49bfe7bdd7b652faad6c9debed7846116eb419f7764be77",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4900000.106,
+  "share_of_supply_pct": 0.093,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 70,
+  "address": "0:d8833772bad31bd328d732b39a865cc3f91a156ded104b588a7b1db6ffa7801b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4800000.119,
+  "share_of_supply_pct": 0.091,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 71,
+  "address": "0:d887d0e2d1c4fc4126e71c970d33ab1896940000eae703bb1ab6cecc830777e3",
+  "label": "MEXC 3",
+  "kind": "wallet",
+  "balance_ton": 4762061.178,
+  "share_of_supply_pct": 0.09,
+  "providers_differ_by_ton": 711.073,
+  "last_activity": 1793198446
+ },
+ {
+  "rank": 72,
+  "address": "0:d944e07f6b88541697a0db0b8b22e282991955126e59801979be4269cdc66e78",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4600000.189,
+  "share_of_supply_pct": 0.087,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 73,
+  "address": "0:a212b811feed94df4108d86e51ccb7cb00d3a1ccecfc8d75392b66e454eb5ccd",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4478210.325,
+  "share_of_supply_pct": 0.085,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793193642
+ },
+ {
+  "rank": 74,
+  "address": "0:99fbb6a40b0fddbe5fd0e71cab896a825dd5ae6c83dbb8deda0d09735f8e696b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4462868.635,
+  "share_of_supply_pct": 0.085,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 75,
+  "address": "0:50d6af508bdb5e85a7fa094803138303bd8cdc57ea8702f8e158333de208f715",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4200400.151,
+  "share_of_supply_pct": 0.08,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 76,
+  "address": "0:462753c3c722ef3ce7aa892b6460ddfc93bfcd2c4c61e7cc177db20eae198e01",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4100000.102,
+  "share_of_supply_pct": 0.078,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 77,
+  "address": "0:244c6b482f361bd24e61e79216a078648ae85e160bcfee282c572fecb71d3c62",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 4075318.357,
+  "share_of_supply_pct": 0.077,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793188940
+ },
+ {
+  "rank": 78,
+  "address": "0:c8b0596f090b2415fe55ef2e0785f1c576992bfde436aeac75efcec3ab1f0fac",
+  "label": "hashtag-on-tele-gram.ton",
+  "kind": "wallet",
+  "balance_ton": 4054314.271,
+  "share_of_supply_pct": 0.077,
+  "providers_differ_by_ton": -649.901,
+  "last_activity": 1793198431
+ },
+ {
+  "rank": 79,
+  "address": "0:601b679b3c7aa11b41e45d428e8150813223c65c72053ecd90658bc501cf82a7",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 4000100.056,
+  "share_of_supply_pct": 0.076,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791052220
+ },
+ {
+  "rank": 80,
+  "address": "0:f2a2e706bf1295fa6388e30a99c431ce294aef002727946d013a85dfc1554317",
+  "label": null,
+  "kind": "contract: multisig_v2",
+  "balance_ton": 3917951.332,
+  "share_of_supply_pct": 0.074,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793098847
+ },
+ {
+  "rank": 81,
+  "address": "0:1150b518b2626ad51899f98887f8824b70065456455f7fe2813f012699a4061f",
+  "label": "join-hashtag-on-tele-gram.ton",
+  "kind": "contract: jetton_wallet",
+  "balance_ton": 3897972.766,
+  "share_of_supply_pct": 0.074,
+  "providers_differ_by_ton": 18.998,
+  "last_activity": 1793198423
+ },
+ {
+  "rank": 82,
+  "address": "0:526c8eec801a0edb24186cfda107f1815e13e970498bcf9361d74bdc8efdd072",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 3756099.312,
+  "share_of_supply_pct": 0.071,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 83,
+  "address": "0:25c2d500930dcbb008d7c24d95d37ceffc8b05f117403859c2b76ceac97da2d6",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 3705989.416,
+  "share_of_supply_pct": 0.07,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793175599
+ },
+ {
+  "rank": 84,
+  "address": "0:cd87f03716ecf7aa87b7688c96204eaae5dc58e9b4efeab699b37a4ef76fde3d",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 3647910.055,
+  "share_of_supply_pct": 0.069,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1790287079
+ },
+ {
+  "rank": 85,
+  "address": "0:beae4d256a49632639163613d9db215773618ac9f8d9071d507865a9f25a9117",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 3242240.543,
+  "share_of_supply_pct": 0.061,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 86,
+  "address": "0:790f760a0bacae622cc70420079903fb5f8b523ca33651c0158bbf8aa33ee8c1",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 3085360.13,
+  "share_of_supply_pct": 0.058,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343249
+ },
+ {
+  "rank": 87,
+  "address": "0:3183d4febac2b7567f5ca800efa048ac527a92e93dd2bf048234b44980fa7f4f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 3048653.4,
+  "share_of_supply_pct": 0.058,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793191980
+ },
+ {
+  "rank": 88,
+  "address": "0:9650baefe1a7d54893516da54ee8b709a118ac76715aba39c1429b4a497047d1",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 3011618.888,
+  "share_of_supply_pct": 0.057,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793197295
+ },
+ {
+  "rank": 89,
+  "address": "0:e9cfd55280e9d6660faa0937d5b46a9b722b6dacdba9619454cbff3d3cdc0dce",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2996211.738,
+  "share_of_supply_pct": 0.057,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793090082
+ },
+ {
+  "rank": 90,
+  "address": "0:847bc0754fcad9919805b98563305579bc040b1c0814c17bdd46ae5bb91e610f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2500916.714,
+  "share_of_supply_pct": 0.047,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 91,
+  "address": "0:48a7f7253250ef651b6763080542054923788beec39f576f5a351ec885e3f63f",
+  "label": null,
+  "kind": "contract: whales_pool",
+  "balance_ton": 2473653.159,
+  "share_of_supply_pct": 0.047,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793118365
+ },
+ {
+  "rank": 92,
+  "address": "0:08eec7d58c4bf4cb01d5d926cffbd6e174327cf99d24d41a713345a579e3f63f",
+  "label": null,
+  "kind": "contract: whales_pool",
+  "balance_ton": 2473491.639,
+  "share_of_supply_pct": 0.047,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793183849
+ },
+ {
+  "rank": 93,
+  "address": "-1:592553d9608fb6a702a00212475fa58e307f8c8416bce1e5c4658c3f9831183f",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 2463986.89,
+  "share_of_supply_pct": 0.047,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793183709
+ },
+ {
+  "rank": 94,
+  "address": "0:4da6d2ad61da4f90e319095825556690d0fc303470f19186fa36f2320dc51381",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2340811.853,
+  "share_of_supply_pct": 0.044,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793178005
+ },
+ {
+  "rank": 95,
+  "address": "-1:452be252ce29e10bb8bc72e20ca8354ec1612744deaf3daef540c7a28a686bc0",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 2330805.35,
+  "share_of_supply_pct": 0.044,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793183786
+ },
+ {
+  "rank": 96,
+  "address": "0:c29ad3b9d091bc3ef63028733abd41f200d3781fa1a5b3d278f4edd25541ce35",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2217921.379,
+  "share_of_supply_pct": 0.042,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793186364
+ },
+ {
+  "rank": 97,
+  "address": "0:e964601c1c41528b54ed761326f0498cba64b43cc9f82e73bc4d7948e84180c8",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 2210336.141,
+  "share_of_supply_pct": 0.042,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343252
+ },
+ {
+  "rank": 98,
+  "address": "0:4d4c95c39ed64b02b1c82aaf5308df9e6a0485899c235e60b757d29f25971518",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2205499.792,
+  "share_of_supply_pct": 0.042,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 99,
+  "address": "0:2989bf76d3cb81955456b5c4c4676bd3d29a7a6a840528d49617eb8a15a93f91",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2139399.809,
+  "share_of_supply_pct": 0.041,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 100,
+  "address": "0:3b865f3176d329c18280bb36477a2ece4a726955ace73bb27014b5588d8e00b7",
+  "label": null,
+  "kind": "contract: multisig_v2",
+  "balance_ton": 2095906.67,
+  "share_of_supply_pct": 0.04,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793172867
+ },
+ {
+  "rank": 101,
+  "address": "0:9220c181a6cfeacd11b7b8f62138df1bb9cc82b6ed2661d2f5faee204b3efb20",
+  "label": "STON.fi DEX",
+  "kind": "contract: jetton_wallet",
+  "balance_ton": 2069165.455,
+  "share_of_supply_pct": 0.039,
+  "providers_differ_by_ton": 591.828,
+  "last_activity": 1793198586
+ },
+ {
+  "rank": 102,
+  "address": "0:419712bc541c4489d6f1c38a105722d293b8847fd54f2717ad69142911b8be5c",
+  "label": "Bitfinex 2",
+  "kind": "wallet",
+  "balance_ton": 2049965.572,
+  "share_of_supply_pct": 0.039,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793155337
+ },
+ {
+  "rank": 103,
+  "address": "0:d238f578c39ebc7a11c0ee33867721288096b58d52f43a7e15c7e287e6cc2e38",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 2006664.12,
+  "share_of_supply_pct": 0.038,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1787282611
+ },
+ {
+  "rank": 104,
+  "address": "0:6f341542c9a2242873df7e82d4891001fddaffbee12e74226754613f040397cd",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 2000013.661,
+  "share_of_supply_pct": 0.038,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 105,
+  "address": "0:349362005ec40162202263b15fb11d9525db6c2c79d60e835921bfa1fddbc469",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 1999258.985,
+  "share_of_supply_pct": 0.038,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343255
+ },
+ {
+  "rank": 106,
+  "address": "-1:91567a59b5e0ebcb485d8bf7ed3fab2e284d727be992bcd1e5359220adcd5310",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 1998754.974,
+  "share_of_supply_pct": 0.038,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1787689998
+ },
+ {
+  "rank": 107,
+  "address": "0:03ae49cfefb71ee07a94635d276a5e02b7ade7901c7c4b21290249c22521c55f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1910277.929,
+  "share_of_supply_pct": 0.036,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 108,
+  "address": "0:ad8675220eee90febcda26e0f402ba7c00ab14ab60b4dfe90c7f978588a91255",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1896716.586,
+  "share_of_supply_pct": 0.036,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792770167
+ },
+ {
+  "rank": 109,
+  "address": "0:dae153a74d894bbc32748198cd626e4f5df4a69ad2fa56ce80fc2644b5708d20",
+  "label": "mergesort.t.me",
+  "kind": "contract: dedust_vault",
+  "balance_ton": 1857121.951,
+  "share_of_supply_pct": 0.035,
+  "providers_differ_by_ton": 245.621,
+  "last_activity": 1793198568
+ },
+ {
+  "rank": 110,
+  "address": "0:d588750849beb55211110b8d0c21a6d9e25ac09816a9ea49b4738f440620e76f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1844302.96,
+  "share_of_supply_pct": 0.035,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 111,
+  "address": "0:852443f8599fe6a5da34fe43049ac4e0beb3071bb2bfb56635ea9421287c283a",
+  "label": "Fragment",
+  "kind": "wallet",
+  "balance_ton": 1830744.329,
+  "share_of_supply_pct": 0.035,
+  "providers_differ_by_ton": 1223.288,
+  "last_activity": 1793198605
+ },
+ {
+  "rank": 112,
+  "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
+  "label": "BSC Bridge",
+  "kind": "unknown or not deployed",
+  "balance_ton": 1784479.028,
+  "share_of_supply_pct": 0.034,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 0
+ },
+ {
+  "rank": 113,
+  "address": "0:dea90a0bd4272ce472eb75656d64515993cfc594c79678d6891d58b10c0b8a8b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1773918.632,
+  "share_of_supply_pct": 0.034,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793189578
+ },
+ {
+  "rank": 114,
+  "address": "0:7bfab534a41bdea3156277cc8daf71b3ee9a1e466b91519cc6579de9d246e68c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1734595.9,
+  "share_of_supply_pct": 0.033,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 115,
+  "address": "0:07b1a983d23838b86d05b420a42813f624f2cb4f4d91694d8ebacf0f5f4b02ad",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1712857.06,
+  "share_of_supply_pct": 0.032,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793196625
+ },
+ {
+  "rank": 116,
+  "address": "-1:28ab77aae618cd8f92dbd19b204afa81195d2d4f257cabbba5c09e9370481bf9",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 1710790.475,
+  "share_of_supply_pct": 0.032,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1788334070
+ },
+ {
+  "rank": 117,
+  "address": "0:289a3e86973b622ce8f9d4ee6b5c026753559081de3b62efd1c79c9e675d51ee",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1697499.734,
+  "share_of_supply_pct": 0.032,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 118,
+  "address": "0:060b8f520a2fe66ac94fae590d74e4a6b91007249405247ac40777c2423a8c94",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1642499.634,
+  "share_of_supply_pct": 0.031,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 119,
+  "address": "-1:6d75ae0d3c30c56b110f33940b473370fd0269eb2f82381d1ad6452f9543ad48",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 1640382.319,
+  "share_of_supply_pct": 0.031,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793118377
+ },
+ {
+  "rank": 120,
+  "address": "0:9ee8e6653451d75816a2e55dc2cd8b1d3baf32651d8631d31858ee8d275c188b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1635098.433,
+  "share_of_supply_pct": 0.031,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793196188
+ },
+ {
+  "rank": 121,
+  "address": "-1:3ae3c250b44c04fab6d7ec9d5c4161c3b9573f8205701a7003df391c3c107471",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1599948.029,
+  "share_of_supply_pct": 0.03,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 122,
+  "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
+  "label": "TON Foundation (OLD)",
+  "kind": "wallet",
+  "balance_ton": 1592542.221,
+  "share_of_supply_pct": 0.03,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793136956
+ },
+ {
+  "rank": 123,
+  "address": "0:b33c02b664ec7cc5aa99802adcdac5235815c985c09c82f48adb3d1b13c45ea9",
+  "label": null,
+  "kind": "owner of validator stake (part 2)",
+  "balance_ton": 1563726.157,
+  "share_of_supply_pct": 0.03,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 124,
+  "address": "0:66a1e72196d64d6faf48fa4b2ea861f67b0484d2d14a59caf701d8c286ce44e5",
+  "label": "OKX 11",
+  "kind": "wallet",
+  "balance_ton": 1560514.195,
+  "share_of_supply_pct": 0.03,
+  "providers_differ_by_ton": -144.649,
+  "last_activity": 1793198589
+ },
+ {
+  "rank": 125,
+  "address": "-1:e457091f7ff2d30fe1affa8fe97ac71edc80cf88b2d9a7ff390daa1421fc00b0",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 1547366.136,
+  "share_of_supply_pct": 0.029,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792528882
+ },
+ {
+  "rank": 126,
+  "address": "0:24d78183c21c47bf79a8af55a1941ab50af45d24e948b66b3d87685890525808",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1528510.1,
+  "share_of_supply_pct": 0.029,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792717630
+ },
+ {
+  "rank": 127,
+  "address": "0:d04805962910549b456752b9f2fbd362fdd7a86e2b34682e97a44b5a971c65fd",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1520410.549,
+  "share_of_supply_pct": 0.029,
+  "providers_differ_by_ton": -4.672,
+  "last_activity": 1793198555
+ },
+ {
+  "rank": 128,
+  "address": "0:2146b97576b77c34f3d31ea29146e8601c0b3b4352587bec65f8e6e3b09ea6c2",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1500623.726,
+  "share_of_supply_pct": 0.028,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 129,
+  "address": "-1:e5bdad2a1226615abad9265f88271c82713426993a3bd5f216c90df51f127c36",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 1453498.269,
+  "share_of_supply_pct": 0.028,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 130,
+  "address": "0:7661d59fbd6ba58fb43a3cd18f3707b8241529b433debabd79a23551f5c8c125",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1447957.471,
+  "share_of_supply_pct": 0.027,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793198170
+ },
+ {
+  "rank": 131,
+  "address": "-1:2c3062b2a70d34e8079162a8a62e3998d947e9f921e4f02d19241360541973c3",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 1444798.264,
+  "share_of_supply_pct": 0.027,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 132,
+  "address": "-1:b17045f9f82db60c4f3a4bb1206e108def01a2e2b400df969771a7e3392555ad",
+  "label": null,
+  "kind": "suspended early-miner wallet (part 1)",
+  "balance_ton": 1442598.265,
+  "share_of_supply_pct": 0.027,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 133,
+  "address": "-1:2ad2fab703febb68fab669c2e5fac5bed5051bdb32777ff80d107c62ad304062",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1425497.188,
+  "share_of_supply_pct": 0.027,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 134,
+  "address": "0:d0a7db3c82c76e7df06ae2c3f855b9dc071db91e0bf1507b947a62e567be9d30",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1418395.241,
+  "share_of_supply_pct": 0.027,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793197028
+ },
+ {
+  "rank": 135,
+  "address": "-1:0a75acb2304d16a74e939cb001780e460209632e9f4735745f596afdeb8719ab",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1380637.722,
+  "share_of_supply_pct": 0.026,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792463402
+ },
+ {
+  "rank": 136,
+  "address": "-1:10a79d887a97846ab42b8c09372e53db1bf9f51b16b00c8ffdeb06d64f55ba18",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 1363293.827,
+  "share_of_supply_pct": 0.026,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792768261
+ },
+ {
+  "rank": 137,
+  "address": "0:9a6022138a0597af2d1c068e0e7f4fc036b11da81dc5d9eb7725ea72955cc270",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1327388.341,
+  "share_of_supply_pct": 0.025,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791628748
+ },
+ {
+  "rank": 138,
+  "address": "0:13018a2e1b6d93130a97c48c66af5580a9f9f6ee7eae8878695e87aa2937239c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1327388.341,
+  "share_of_supply_pct": 0.025,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791628663
+ },
+ {
+  "rank": 139,
+  "address": "-1:c16ec175e81e1a45e08585720e2e1eea80874b4c294fbca536f595b02d2862b1",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1315022.249,
+  "share_of_supply_pct": 0.025,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793183182
+ },
+ {
+  "rank": 140,
+  "address": "0:d0c31b7583e7296666433414aea1d8d6dede7d0895c3b17b8ece4c5b2c9ab5e1",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 1302429.707,
+  "share_of_supply_pct": 0.025,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1790791409
+ },
+ {
+  "rank": 141,
+  "address": "0:47a9406b2e574e72a76295cc927c54a30c8791925a4afc97098fb4bef883fe87",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1227679.9,
+  "share_of_supply_pct": 0.023,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343198
+ },
+ {
+  "rank": 142,
+  "address": "-1:7543eb92a404cb1d5fd21c617a20409abe2b844106d9ebf9f776eafcd9101119",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1186222.478,
+  "share_of_supply_pct": 0.022,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793037955
+ },
+ {
+  "rank": 143,
+  "address": "0:8a9aecc387400ee0879c227c7162ba54dd2d13bab6ee0d542e5f4a8659b045ca",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1148000.0,
+  "share_of_supply_pct": 0.022,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 144,
+  "address": "0:c06fa5e265c7bfa781c892afc53ce914cceed8522031fd20e93605bcb2a288f9",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1137309.081,
+  "share_of_supply_pct": 0.022,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 145,
+  "address": "0:77868079371728b46f234b77ec1be809b3384fbae6016287f0bcc6df2e7ea78b",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1136372.399,
+  "share_of_supply_pct": 0.022,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785467811
+ },
+ {
+  "rank": 146,
+  "address": "0:c8bf49921e75f113a0bf0932195d192b89c189c2950d8393d753705a656d6716",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1120781.541,
+  "share_of_supply_pct": 0.021,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 147,
+  "address": "0:a56c29f0abc3fb53fa98f1c1e58b8160c0b299621832b3720f3f4d7f518dca85",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1074052.999,
+  "share_of_supply_pct": 0.02,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793137010
+ },
+ {
+  "rank": 148,
+  "address": "0:3650bb016ee3833075a48f23051bda34ae57c93cf3ff5b6d0433ebf7a8c3404b",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 1060603.37,
+  "share_of_supply_pct": 0.02,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791581386
+ },
+ {
+  "rank": 149,
+  "address": "0:8b3dda06325494912fbfe6feeeb11f2c44eff3ba18e37787715db6fa2ccf3cbc",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1034710.945,
+  "share_of_supply_pct": 0.02,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 150,
+  "address": "0:9880daf0ff852ab310c43bd9543b14b786fcc45af38566b66a379d67cab2338f",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 1025415.037,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343244
+ },
+ {
+  "rank": 151,
+  "address": "0:4e9a8d9981a382bd40507707537af67a12f40466665003980b1895dd420269e5",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1013672.582,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 152,
+  "address": "0:7f17a7f5c3fc3a413f21225b4b4d4082893e8d39481fc98e1cc659da43afa386",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1008000.072,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 153,
+  "address": "0:27956b5ff8d174aaccc08b72bc2e05dfc3d7809be462f8a5a74e5ec244336f21",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1004569.741,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 154,
+  "address": "0:f645d1adba8f15adfb9d927d88bb24d0f9000f091811727b6069f3725164a940",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1002605.604,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343199
+ },
+ {
+  "rank": 155,
+  "address": "0:bd2ae25ba855df37ab08ad448b33ac0e46664122eae9f80d3ce803d177be4d45",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 1000000.07,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 156,
+  "address": "0:e02971a2d97bc160f6263c1116f99b37cd1708752c8244a5cfe3c8bfd4e73324",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 1000000.015,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343240
+ },
+ {
+  "rank": 157,
+  "address": "0:e909a8cf27436ce893e2b8a3d825867768e071693fe5e3caeb6a9b103c8877f7",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 999216.359,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 158,
+  "address": "0:641e2fd9aa20fcff9de425c3ce45117e46683af08bd35e73ac9dfa676b4ee7ce",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 998227.035,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 159,
+  "address": "0:e926764ff3d272c73ddeb836975c5521c025ad68e7919a25094e2de3198805f1",
+  "label": null,
+  "kind": "contract: storm_vault",
+  "balance_ton": 996465.032,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793197388
+ },
+ {
+  "rank": 160,
+  "address": "0:9da3ec1a58079fa6d8b07bb3115a654bdf2c503a2f3593fc88ddce02eb267a19",
+  "label": "successive-on-telegram.ton",
+  "kind": "wallet",
+  "balance_ton": 995171.607,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793196150
+ },
+ {
+  "rank": 161,
+  "address": "-1:2f27af2555630c68fc97573ffd5b6b6687f462e496907936bce6108ba7dd7c9a",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 989393.468,
+  "share_of_supply_pct": 0.019,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343200
+ },
+ {
+  "rank": 162,
+  "address": "0:e4fa1ca3ab146726d29b42754f1d4abd4748b0fc9271d1088beb643bc05c45b2",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 966490.559,
+  "share_of_supply_pct": 0.018,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1789548957
+ },
+ {
+  "rank": 163,
+  "address": "0:ba1827f66f4f414de99be386f60d76923f9e1f8a6f0e7e7ad459141382ae63cb",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 964286.204,
+  "share_of_supply_pct": 0.018,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791879720
+ },
+ {
+  "rank": 164,
+  "address": "0:1d14473e3c879a2220493db920d683b50073129800de86c5b83b0432b6583c05",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 944895.172,
+  "share_of_supply_pct": 0.018,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792777421
+ },
+ {
+  "rank": 165,
+  "address": "0:aaa63eaef281e6cde44fe63fadcc8063aa1a2163d1ddf22c48cda7297142aec5",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 940488.667,
+  "share_of_supply_pct": 0.018,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 166,
+  "address": "0:8775fbc472505b75096c42ec6c3984dbff818fe1d980d3100dc3d70ca56a11cc",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 924909.858,
+  "share_of_supply_pct": 0.018,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 167,
+  "address": "0:7e693f9656b984644a5d3e29226b392ec45605fd3ce88f858580038e171bfaf9",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 917650.622,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088991
+ },
+ {
+  "rank": 168,
+  "address": "0:d1e0fe80db35719c767e797802eef038fda16ee342b06660fdd20a268d8218fc",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 905899.617,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 169,
+  "address": "-1:28da76044f8bddaab6f4e89c16db4d1627a391bc21bb27f03a0d8fadb89ab76c",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 900021.91,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793172728
+ },
+ {
+  "rank": 170,
+  "address": "-1:2d284d38b3c50ce42f4e9131ab48a2e47a73b3ccf93eaba07f508ac8d77dfbba",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 900021.902,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793172969
+ },
+ {
+  "rank": 171,
+  "address": "0:d86ba2e9f7d630b83ac3982b27831b3974accbfcfedea40e223f44fb76ca18d6",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 899866.806,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793184046
+ },
+ {
+  "rank": 172,
+  "address": "0:4cafce91bd97cb9b2e36ffedde4e3ca01431bd2e5eeab4648eeb353419935328",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 893749.903,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 173,
+  "address": "0:d0cd7160eb66eadb6b744af43c145d9dce14e5cc5b82c3eec958ad351a418760",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 885417.006,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792139599
+ },
+ {
+  "rank": 174,
+  "address": "0:ad396f8091a94810471fbf9e51f41793e909519ccee30c05dc224ef44bf69496",
+  "label": null,
+  "kind": "owner of validator stake (part 2)",
+  "balance_ton": 875000.035,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 175,
+  "address": "0:bface0eca58d0d915808a3107db946ae5a339ccf3b502b353bcc76e420106434",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 872854.577,
+  "share_of_supply_pct": 0.017,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343288
+ },
+ {
+  "rank": 176,
+  "address": "0:8351237e004abddf1fa4d5b7c83da1b7501008e4c85b4a97fcacfa7365cb98db",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 866836.011,
+  "share_of_supply_pct": 0.016,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793184193
+ },
+ {
+  "rank": 177,
+  "address": "0:4e18a5cb43f03c1b95ac290f9b0e067107518df63088ee9949f77598897a4b97",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 863072.684,
+  "share_of_supply_pct": 0.016,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793184291
+ },
+ {
+  "rank": 178,
+  "address": "0:ad12d97a2e546d6ead9184bac7341fc725fdc930f2750bbfdedeb6dc0aef8ea0",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 835800.103,
+  "share_of_supply_pct": 0.016,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 179,
+  "address": "0:6f412d9bbaf741a37ea6b7e69c6ae1098e5e29afd70354e9e3435c8779a56c31",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 824840.042,
+  "share_of_supply_pct": 0.016,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343244
+ },
+ {
+  "rank": 180,
+  "address": "0:fc292f1997e71c40b10ad18a93b4fc715c73f1ec358e3776c48a4af26966ccf9",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 800500.058,
+  "share_of_supply_pct": 0.015,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 181,
+  "address": "0:50478d33a3f5da3a10ebea9c2f6a001e1817f32c1073ad1417aa0cf3f6278f5c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 792535.98,
+  "share_of_supply_pct": 0.015,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 182,
+  "address": "0:8263cc72b2cd523164c3cf843da144c2721a7fbd917ff40789de4e1ef0d212cf",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 783029.0,
+  "share_of_supply_pct": 0.015,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1791891139
+ },
+ {
+  "rank": 183,
+  "address": "-1:af0873e75733b8d049a820ff8fe047435f126e4b41a22a2d4a561581447366d0",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 776561.283,
+  "share_of_supply_pct": 0.015,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1790433306
+ },
+ {
+  "rank": 184,
+  "address": "0:afa9bb35bb5ce18386c8e297adf55ac5a51b7d4a0ab8e459f1574f4e1ad65e4d",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 768117.932,
+  "share_of_supply_pct": 0.015,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 185,
+  "address": "0:257ab29504af2d46f71bf370e3a541174e482beca1b037a1d332343ebb34cdfa",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 765492.601,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343255
+ },
+ {
+  "rank": 186,
+  "address": "0:00812bcece3b8815ffb0ad0d9114e18ca6a5c01f581915c32a111fbc89bf8cda",
+  "label": "check-hashtag-on-tg.ton",
+  "kind": "wallet",
+  "balance_ton": 743941.041,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793189102
+ },
+ {
+  "rank": 187,
+  "address": "0:8f380e84457f2419e05ed625c6a6311581d1bc5491d4efdb645066613dc3a15f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 736608.3,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343200
+ },
+ {
+  "rank": 188,
+  "address": "-1:58f38407709db8c69964568c8c08e0c77cbad3c57710a4db365be68ee7944f31",
+  "label": null,
+  "kind": "staking pool or validator",
+  "balance_ton": 729400.462,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343200
+ },
+ {
+  "rank": 189,
+  "address": "0:1d2b45d2702065190eaa49cff0aeb2e3b7e9765453814ee8f6f77dfb420290d6",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 722664.318,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 190,
+  "address": "0:b3c395141f2c124bb04754cdbd676263d7da0686de3e5d87bf55fd8f8a97e009",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 713201.435,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 191,
+  "address": "0:474474cbc131ce0f556e1338d0b26a1b7e3e9c96db0537ecb8ddaf3036bcbd3f",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 713010.54,
+  "share_of_supply_pct": 0.014,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 192,
+  "address": "0:38d46bf08b281e105a44beb70a3aadfc9588d0f0861f5ba2c38f86e46b2099ab",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 700100.0,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792829592
+ },
+ {
+  "rank": 193,
+  "address": "0:cbc44818dacb99e4be9515b68e3a07e8b5797616bd6c2a7ecede4778b4c700b8",
+  "label": null,
+  "kind": "unknown or not deployed",
+  "balance_ton": 697671.533,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1785343251
+ },
+ {
+  "rank": 194,
+  "address": "0:0aa4e90f861acf70775b6c75cdf3ba08d3fda727498b74eb7b9edc5d0a3bcce7",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 695752.628,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792982597
+ },
+ {
+  "rank": 195,
+  "address": "0:8a1d6908958ad8485c6913e9c27913bb91ddec06164ed69dea2b55647fe7be45",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 688642.971,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793136964
+ },
+ {
+  "rank": 196,
+  "address": "0:217f6694941ebab399d5eae3f694111523e3352a47b270398d6cfd111b93d444",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 684932.02,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792769525
+ },
+ {
+  "rank": 197,
+  "address": "0:37aff4a6d46ad0ffb189fe338b284c7248534ae9c5fac2a71265384c20a7f2e2",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 675385.423,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1792921471
+ },
+ {
+  "rank": 198,
+  "address": "0:d6deaf173c2de8e1b7c15bbd3b9bcca8ba34a87dc6daee58e1f403a332eef47c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 673214.309,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 199,
+  "address": "0:d833462f172dbed49e2f4ec9ff18a531f142810afb3603940a26df305535ea86",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 672707.999,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793088992
+ },
+ {
+  "rank": 200,
+  "address": "0:4559416d2891e9aac864832926d093ca79c9947857956f05b53788adfc2a3f1c",
+  "label": null,
+  "kind": "wallet",
+  "balance_ton": 668931.407,
+  "share_of_supply_pct": 0.013,
+  "providers_differ_by_ton": 0.0,
+  "last_activity": 1793075532
+ }
+]

@@ -1,0 +1,30 @@
+{
+ "source": "https://tonapi.io/v2",
+ "fetched_at": "2026-10-28T14:45:30Z",
+ "outages": [
+  {
+   "name": "27-28 Aug 2024 (DOGS launch)",
+   "probe_utc": "2024-08-28 02:00",
+   "last_before": {
+    "seqno": 39987437,
+    "gen_utime": 1724796706
+   },
+   "first_after": {
+    "seqno": 39987438,
+    "gen_utime": 1724817712
+   }
+  },
+  {
+   "name": "1 Jun 2025",
+   "probe_utc": "2025-06-01 13:00",
+   "last_before": {
+    "seqno": 48400109,
+    "gen_utime": 1748780131
+   },
+   "first_after": {
+    "seqno": 48400110,
+    "gen_utime": 1748784140
+   }
+  }
+ ]
+}
