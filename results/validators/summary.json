@@ -1,0 +1,32 @@
+{
+  "fetched_at": "2026-10-28T10:47:48Z",
+  "elect_at": 1793150728,
+  "validators": 374,
+  "total_stake_ton": 667435547,
+  "operators": 204,
+  "largest_node_pct": 0.49,
+  "largest_operator_pct": 16.287,
+  "top10_operators_pct": 38.723,
+  "nodes_to_one_third": 81,
+  "operators_to_one_third": 7,
+  "nodes_to_half": 131,
+  "operators_to_half": 26,
+  "stake_owners": 177,
+  "largest_stake_owner": {
+    "address": "0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3",
+    "label": "Telegram",
+    "nodes": 52,
+    "share_pct": 16.287
+  },
+  "top10_stake_owners_pct": 39.714,
+  "stake_owners_to_one_third": 7,
+  "stake_owners_to_half": 20,
+  "interfaces": {
+    "single_nominator_pool": 232,
+    "tv_pool": 62,
+    "validator_controller": 27,
+    "wallet_v1r3": 16,
+    "lockup_vesting": 3
+  },
+  "nodes_without_known_role": 53
+}

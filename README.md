@@ -24,8 +24,29 @@ In February 2023 validators voted to suspend inactive early-miner wallets for 48
 
 Files: `results/frozen/summary.json`, `accounts.json` (every wallet with balance and counts), `outgoing.json` (the 12 transfers of 21 Feb 2023).
 
+## Part 2: validators and who stands behind them (done, 28 Oct 2026)
+
+Current validator round (elected at unix time 1793150728), read from the public ledger through tonapi.io.
+
+| | From the ledger |
+|---|---|
+| Validators (nodes) | **374** |
+| Total stake | **667,435,547 TON (GRAM)** |
+| Largest single node | 0.49 % |
+| Nodes needed for one third of the stake | 81 |
+| Distinct operators, after grouping nodes by the address that controls them | **204** |
+| Largest operator | **16.29 %**: 52 nodes, 108,706,006 TON |
+| Top 10 operators | 38.72 % |
+| Operators needed for one third / one half of the stake | **7** / 26 |
+| Stake owners (pool owner or largest nominator) needed for one third / one half | 7 / 20 |
+
+- Counting nodes makes the network look more spread than it is. Grouped by who controls them, 7 operators together hold more than one third of the stake, the share that can halt consensus.
+- The largest operator owns 52 single nominator pools. Its wallet `0:8c397c43…7ab3` is labelled **"Telegram"** by tonapi.io. The label comes from the data provider, not from the ledger; Telegram has said publicly in 2026 that it became a validator, but we have not found a statement by Telegram that names this address. Public reports of Telegram's stake differ widely (2.2 million TON, 28.2 million TON, "USD 191 million"); the ledger shows 108.7 million TON staked through this owner in the current round.
+- Grouping uses public get methods: `get_roles` (single nominator pools), `get_pool_data` and `list_nominators` (nominator pools), `get_validator_controller_data` (liquid staking controllers). 53 nodes expose no such role (plain wallets, lockup contracts); each is counted as its own operator, so the concentration figures are a lower bound.
+
+Files: `results/validators/summary.json`, `operators.json`, `stake_owners.json`.
+
 ## Coming next
-2. Validators: count, stake shares, grouping of nodes by operator (including Telegram), Nakamoto coefficient.
 3. Supply: total, issuance to validators, fees burned.
 4. Largest holders, matched against public disclosures (for example TON Strategy filings with the SEC).
 5. Rumours and facts: public claims about TON, each marked confirmed, not confirmed or opinion, with sources.
@@ -34,6 +55,8 @@ Files: `results/frozen/summary.json`, `accounts.json` (every wallet with balance
 ```
 python3 -m ton_verify.frozen fetch    # public API tonapi.io, about 1 hour
 python3 -m ton_verify.frozen verify   # offline
+python3 -m ton_verify.validators fetch    # about 20 minutes
+python3 -m ton_verify.validators verify   # offline
 ```
 
 Apache 2.0. Gravit Open Network Foundation.

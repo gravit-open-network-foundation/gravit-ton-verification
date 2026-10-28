@@ -1,0 +1,1746 @@
+[
+ {
+  "address": "0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3",
+  "label": "Telegram",
+  "nodes": 52,
+  "stake_ton": 108706006,
+  "share_pct": 16.287,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:c3f99ec4f68ef9a820dc029bd797d21603e087db5ad2d88d4285b6aa041e37fa",
+  "label": "arabswallet.ton",
+  "nodes": 15,
+  "stake_ton": 33643941,
+  "share_pct": 5.041,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:df05aa8a7a39a08883aa7caa88a30a2e58f1258f65bf2498c6b01ebc0de3f63f",
+  "label": null,
+  "nodes": 10,
+  "stake_ton": 29910635,
+  "share_pct": 4.481,
+  "interfaces": []
+ },
+ {
+  "address": "0:232bc48871c799b66662c4a9910da4703b532ead74a8419e8793d570db2886d2",
+  "label": null,
+  "nodes": 10,
+  "stake_ton": 22459651,
+  "share_pct": 3.365,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:2a4784586aeabba778ea2869c3f9e498543a0e09a93d83c66c48d54723d7debc",
+  "label": null,
+  "nodes": 6,
+  "stake_ton": 14864034,
+  "share_pct": 2.227,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:6ce8da34fc8f0ac49da75bd8486a04248d149a1822129d2ea7b220b02069bdcd",
+  "label": null,
+  "nodes": 9,
+  "stake_ton": 11809780,
+  "share_pct": 1.769,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:dfaf143972b5de71cdaf46c34f02bb4d876a449252dfba9e149469206859e109",
+  "label": null,
+  "nodes": 5,
+  "stake_ton": 11224280,
+  "share_pct": 1.682,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:28ee551374bca2af58b7737e2b800067e57bea0c35f99a0cbee8403d8c77e53b",
+  "label": null,
+  "nodes": 5,
+  "stake_ton": 11222476,
+  "share_pct": 1.681,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:dfdb34012c7831b091e62e28c73061e10d2c6d645beefd7c5f6f809d027cc80d",
+  "label": null,
+  "nodes": 5,
+  "stake_ton": 10841375,
+  "share_pct": 1.624,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:5d7270af3f072605ff896f2232638ecb602277a1b142a511be5e15cc5757abd6",
+  "label": null,
+  "nodes": 4,
+  "stake_ton": 10393792,
+  "share_pct": 1.557,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:29c38095322de49d2e2444f29966b17bf0dee0b85011297f702dcd3277e549df",
+  "label": null,
+  "nodes": 9,
+  "stake_ton": 10112390,
+  "share_pct": 1.515,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:8ba854ec5c9f18952de3e16f48f4d4c33e2f3de341d03714495f9a8c01e1b115",
+  "label": null,
+  "nodes": 4,
+  "stake_ton": 8527223,
+  "share_pct": 1.278,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:aebfd8df0d7c5d8842e8585fb3cc6e389cde0edad2c1a2edbaa168b02803f68c",
+  "label": null,
+  "nodes": 7,
+  "stake_ton": 7897750,
+  "share_pct": 1.183,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:53fde32858fd724b93dc747fc92e88d15f81c444242ac4e8540edfa3a9c08df5",
+  "label": null,
+  "nodes": 4,
+  "stake_ton": 7270400,
+  "share_pct": 1.089,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:41ab13004232cc9f396dc2267b7ad0f7fb73d2c7a479c235cc82a590f3529e7a",
+  "label": null,
+  "nodes": 6,
+  "stake_ton": 6770641,
+  "share_pct": 1.014,
+  "interfaces": []
+ },
+ {
+  "address": "0:0635ac117b06e804e010c7b273ba29be5562afa5881a26adebe3223572e05a2a",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 6691088,
+  "share_pct": 1.003,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:f7ab16d1976aee43b8eacc794341d38e72a924a134a580eef8f5a43a3c6cb008",
+  "label": null,
+  "nodes": 4,
+  "stake_ton": 6583281,
+  "share_pct": 0.986,
+  "interfaces": []
+ },
+ {
+  "address": "0:12134b015c7762f6b168310241b8603143db103da311430b7995f8ba46d72132",
+  "label": null,
+  "nodes": 4,
+  "stake_ton": 6469047,
+  "share_pct": 0.969,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:7de08741614475db237aa9ba5d7f5db8825f375cda0c312a9395bdea2aeb58f8",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 6330498,
+  "share_pct": 0.948,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:d328eddafe117aaff8bff5170b7b97ae0a032c7c292bae605f4bf65d7d482836",
+  "label": null,
+  "nodes": 5,
+  "stake_ton": 5620576,
+  "share_pct": 0.842,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:450a82fb0662323f7e6a34c085801b4299193f7781847c9e3c5cda1169fa0916",
+  "label": null,
+  "nodes": 5,
+  "stake_ton": 5254264,
+  "share_pct": 0.787,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:7862ac5291d4d75c04f0d004b4929b707529785e318a0b4931f18db2f3f88ac3",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 4885404,
+  "share_pct": 0.732,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:f40e36adba27f97bcafae0fa6eb4c4263a879d7076b28734b20543844ae3f63f",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 4707612,
+  "share_pct": 0.705,
+  "interfaces": []
+ },
+ {
+  "address": "0:1d58e9b66a65a8205c0833f7cf9f73e6c0ad19fdb0a63289543878110d33a090",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 4197222,
+  "share_pct": 0.629,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:bf6cbdea7d8877e28b592c12774f02f82a9a626a24219abaffac87c79ce1348e",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 4069654,
+  "share_pct": 0.61,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:0e821e0d39bba9c37f42c7cc6b8c8fe7264755ed4552298664c4e55c14e8944c",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 3810361,
+  "share_pct": 0.571,
+  "interfaces": []
+ },
+ {
+  "address": "0:3acb498e137c45d38294a1981595d20439a6169b30ff635a608f90ef63beb050",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 3763926,
+  "share_pct": 0.564,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:8c59982d0152225df78c54083356cd8c6a349b6e258ace6b880c99906da42258",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 3724411,
+  "share_pct": 0.558,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:5224058d38e16ae981c2b77a75cc4f4916a33f9ed3d72a7d7aa9e59806780431",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 3653046,
+  "share_pct": 0.547,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:cc4b956fd9a9c3ec68258229a2f78c45c329d42710dd831ac7f84db7ab624e83",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 3578144,
+  "share_pct": 0.536,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:7181cf32313e8941aea651cf0e26d64b9d8824d6de1242df6fbeb360b2421831",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 3345211,
+  "share_pct": 0.501,
+  "interfaces": []
+ },
+ {
+  "address": "0:e9f3494252e8d72f7cd8b1f4255798021d149d2fb04e6518aa9be15effb90c86",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3108255,
+  "share_pct": 0.466,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:d1b2c03606b39ddad27bc6117cad0196fe4c56edc18499bc71e72311dabb3fad",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 3025650,
+  "share_pct": 0.453,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:1ec438efbad2cf8bc2d188d95f12b56bc0ef770b526a6dd9a3bb25992a07df19",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002267,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:b8b3103d6e4ed9c90ca49f03fe65219cd4d4dc811d2f657b5791757bf6bd071a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002073,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:cc6be629587df820730e3bb51999865bf5db5bc3cf4fd84535d50f505034266c",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:519f954a3939ed4935338ef27779e16b8bea41da79afcfd03d18969c7998b329",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:371b9a8cc5e9a1dfbf9fd335a36bfe8f5b8debd10ff5d63a7b839b525143be2e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:d757dae0502e1e56fc1e0db5fc95c6278d0f6b6642e5834b36db12d1f2a4bd1a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "0:2268b1fb8df6ce40e3d9ac08ef54762de226c075118de4b886b3894927c0fb17",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:48efb3d7ccb394aa4ce59a202cc09f695b116676dfbb9044348fd11fd7a51cb0",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:4508a60db56ae6fba938661fa0f7fbaaa1dd7e03b11fccb0c543d950ab5bca93",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:f424580d318d11d08c9c9042a2ec19e83be8e8ab0b38f026cd6b11a1394477d1",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:d5d27d5333588deaa37d3d24e2fb1593ccff06839a42f7120d08af3e2dd0def1",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:c566af34680a54053a341cdcab81b340187c0a708132f6cea8c76a03255b3be2",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:4c07a007e4235cc95d739848fc50be8cda701ba9281256df107ffdefe63604ca",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:fe20c8d6eb117aeaa6c42b99747642edc9c226c7c9e56e9d6252ee0e45855432",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:862203abeb8d829472037a4f4802b5f10d10ddb7f099921c802f29302b7f7cde",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:e8a38f20b5034dd4be6ed576666378f4cfec8f02e6df7651923b640516e46c0e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:b4e4e159c16bec69a1c9595092a5e307b177f7a9dfc130a00b925c536b432252",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:fb6b661f79f565dff71145d93fd99f8fe906ee4f54f4a697f3f3ff46fb6eb6d9",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:1c99ec621c8111646a0805082c1ff4b421b291390814d7fbd7e140cd70f7ed5a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:863bb2ceaa1b777fa91bf4d2b54670d68bd467aec63862a35fabfd2e5ddb96fd",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:041d8527ac147ab3d7b60fbc72d87b0e68736eb34fa1246e38ef3b5df4263de9",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:f5111d96a23d43cc6737d896bbc185a5409ab62396a83ab15514876718452682",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 3002049,
+  "share_pct": 0.45,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "0:0f05ba5e49a95ec5048d7c3d6ee791949bcd7282ca353f53c4f9dad3ae7b2935",
+  "label": null,
+  "nodes": 3,
+  "stake_ton": 3001560,
+  "share_pct": 0.45,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:b33c02b664ec7cc5aa99802adcdac5235815c985c09c82f48adb3d1b13c45ea9",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2960314,
+  "share_pct": 0.444,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:5ba9e98e4ee112093a106d1f5017dc3a259e8907b239675b1dbf1899cc45b491",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2947064,
+  "share_pct": 0.442,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "0:aa79e04c051ae942dae230b0a28541c68bf7222b02fc0c2776d2edca7c7c3391",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2932801,
+  "share_pct": 0.439,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:7e0fa8bc7f81b8820b59fbd8e00c55268e314e4aa1300a76e72095c6695b6d9a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2904082,
+  "share_pct": 0.435,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:ca2041cc43537b6e5e4bd2f4fa6de89122a35d596d075f7af37a4fb9402ed57e",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2887246,
+  "share_pct": 0.433,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:2269bbbdbe2123f1e2cefda51154c23f2237f32053e4d5978dd532965b48bc53",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2873049,
+  "share_pct": 0.43,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:c3316b6235614e981b3a1d9e7d52750d4ba9d4cd88f322710234ff30711c8801",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2865316,
+  "share_pct": 0.429,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:a3b2ab02a7cd9d11bc4c9d9086b9798ce458a740293926044aebd2e91a785031",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2822913,
+  "share_pct": 0.423,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:ff1e08fcb52ce7c4a16b4b23aabad74c47c3a279f3dd3611430b7821d9c7c060",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2822910,
+  "share_pct": 0.423,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "-1:f0a96c152860e062de226e1d1c8e7b6a43055b6d1fce680c12e9c0130fd21e2c",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2822908,
+  "share_pct": 0.423,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "0:046483ce5be222aeaecc3f268399482ba74b8328678b0db66bdcfc4d59735dd8",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2807851,
+  "share_pct": 0.421,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:4ee24071148d130ffdc1a9f49595a94f89b37b60b26c7525062263b5e6547806",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2758067,
+  "share_pct": 0.413,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:364d844e9249854e10121b61042e8f3e62b1dafe55cfeb9264e88477875397b4",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2713101,
+  "share_pct": 0.406,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:6733a80e66ea882a273dc511a080ced43452364eb610ea14424bade2ede41d12",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2713101,
+  "share_pct": 0.406,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:0f749c408899023996ed7386168f0c92eeb1fec6c96f9e66e126328093f3c056",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2713101,
+  "share_pct": 0.406,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:750b508fb8000587341d5e688e405cbda074be13f32602484f1e01e1a2e9acbf",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2610000,
+  "share_pct": 0.391,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:eb6cde7a6b6ddfcdcd3cedd39035c420bf9e7795404e679746e2e990482b8374",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2571992,
+  "share_pct": 0.385,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:a52504517a24259cf724b2f4d0778210e1280d5fa2599685b856b3ea54aee827",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2541046,
+  "share_pct": 0.381,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:b66d1924b5cf9901357f54af01d5d98ddca5d944a89b94c8b2bc55bf694ccd4f",
+  "label": "blackmarket-dot-tg.ton",
+  "nodes": 2,
+  "stake_ton": 2500000,
+  "share_pct": 0.375,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:740df355206413bb422bd817af2fcd4ac8d4e1d302894d7433722ba6030ce10e",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2414232,
+  "share_pct": 0.362,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:def312b369182dcc096951c815a4d2e2c037e430bcefb55aa011e0a9d6700c2d",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2376720,
+  "share_pct": 0.356,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:d93f40bd055fe9b1dd6a504dc370e168ab5d5306be66174140ae76a1dcf5a310",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2376598,
+  "share_pct": 0.356,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:8b53337d695a0d9adb7a22d6e9b85acc1750277ebcd88ce2965376c69de22384",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2373075,
+  "share_pct": 0.356,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:ad396f8091a94810471fbf9e51f41793e909519ccee30c05dc224ef44bf69496",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2371955,
+  "share_pct": 0.355,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:ad79eee39f703b1135b819be3f13bd3870085472bb80d8c1de387f20aefdb639",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2351916,
+  "share_pct": 0.352,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:7341b02cce2aff7cc12b924b48efff179761648650d4284e2250673d57ae8e32",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2350979,
+  "share_pct": 0.352,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:6da1b94831d2fe4091990df2a338a7fa12636d2bebb6d9c0e6a821d6ffbe7b6a",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2343282,
+  "share_pct": 0.351,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:016baecf8034a11d746a51ecc15d092ab483edd7a1d99cf50b47865bf786d165",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2330804,
+  "share_pct": 0.349,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:b768703ac9136f64bf50184a50e6f4a1c6803c53042bfd9a0d4957f4c3341052",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2329014,
+  "share_pct": 0.349,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:dddfda3f3494c411883024db0c38ce22c7477f062e5868bb99913da5be6c5b07",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2265074,
+  "share_pct": 0.339,
+  "interfaces": [
+   "validator_controller"
+  ]
+ },
+ {
+  "address": "0:8333049c246e174e54ade67e9408cae9f8f8415dfdd17ffc2500710ff0b3eba7",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2249580,
+  "share_pct": 0.337,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:435d88ac7967df1509723eaf974a0c47cfb966529e8434a2ed4d1d9d2d735a86",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2249403,
+  "share_pct": 0.337,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:3ad2ce6d7ca7957dbbec043aec03c4d7cad68fcb4ea9d3ee5f5fecbd6b2d06d8",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2214413,
+  "share_pct": 0.332,
+  "interfaces": []
+ },
+ {
+  "address": "0:fcc8efe32a7095eb9520ab28909ac5e605d56c5871d13fd416c0e0f20266d976",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2206563,
+  "share_pct": 0.331,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:5cd8bf69dd200b4161614a806c04500735bf054895d8893e2c8f9080beed8bf5",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2184272,
+  "share_pct": 0.327,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:9ea2031dce01e7c6498ade05e07356901c833cbbb371ed36b6e1ec3080387aea",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2166650,
+  "share_pct": 0.325,
+  "interfaces": []
+ },
+ {
+  "address": "-1:7f188dc78d96e6e24849de7b5d757e0c59b4cebcb7da8c478317c328a7dd0f2a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2165964,
+  "share_pct": 0.325,
+  "interfaces": []
+ },
+ {
+  "address": "0:96d3a4c3a6a6cdda2ae492b8e6d070190b9466294d67c7b97eb7b91975f6a24d",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2164226,
+  "share_pct": 0.324,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:ea0702f4f4107f2dafaa49e8a37dd03bc8d8a6eb74d1805d02b81744abc08dc7",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2077406,
+  "share_pct": 0.311,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:37965c9534855848afd0ea0ace9fbb880bb85c8a1120b736bfaa85285d966374",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2029685,
+  "share_pct": 0.304,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:72de70ba50e7bd2c0e9258141030b3fa7394550411aed46d34f5282e6aaf1b7c",
+  "label": null,
+  "nodes": 2,
+  "stake_ton": 2019161,
+  "share_pct": 0.303,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:83263e18e7722a62da396861a1ebe3ddb34b23a4ee4554f70de244145ceecd6e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 2001813,
+  "share_pct": 0.3,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:6a2506d3d47f536cb9e4fc154adfa75794eed5b0c6b120e10933e71fdec8655d",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1993435,
+  "share_pct": 0.299,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:51aef775859fed4fd8610bd2388c8cc4c86e9b7cc1cbca5458b7ed54bbd36992",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1990276,
+  "share_pct": 0.298,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:3affacda995749421329d62eb813f4f3138caba8d4145da624ee4ff2833feb49",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1945859,
+  "share_pct": 0.292,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:b11d2e62316e15b94c09f25a8e9508f87acbfa80131d15dee45740bf3e18cede",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1941827,
+  "share_pct": 0.291,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:1bfad8a9c00bb8b32aad0469ca1a53a37628872a90402e2289106ab479a1266a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1909465,
+  "share_pct": 0.286,
+  "interfaces": []
+ },
+ {
+  "address": "0:2fbd5c45b1299303afeec2215946980ff2be6aa46365446efd3d3c6e0898a4a6",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1866196,
+  "share_pct": 0.28,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:3f885600cae93b23ea5443e9a15c59af5193eda54b9efa6347f87569ffd258ed",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1859227,
+  "share_pct": 0.279,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:f38581490918d7550a2ecc88170fcb93699b99284ed952c6be649d80ba7e4a05",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1831098,
+  "share_pct": 0.274,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:eb16d0db0e3c2e272b4b530a63792f3f0923e71a6d3ad02b665f18f13f3cd21e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1821970,
+  "share_pct": 0.273,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:16d11b02bedfc6839a6aacb895713bc11d38adb6a1055898d2136692a1161d78",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1794259,
+  "share_pct": 0.269,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:265afbcebdf4fc336935c2dce2ac1f8e0ec30b59b05ba64ef3034a73736be7d8",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1787394,
+  "share_pct": 0.268,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:548b5001458786049337af9e7cd714905dfb6251a11dc9d7c8073fe054226f85",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1768140,
+  "share_pct": 0.265,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:0cde9962f7230fe1b6f5024984439b5092c9bfca643c2b6ddf0b72bb765673ab",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1711995,
+  "share_pct": 0.257,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:70f5ff30be83faf0d34a0343916cdf304ec88d79f4521d6c0449bfd5879e77e9",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1709418,
+  "share_pct": 0.256,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:7c6b6514926a7f7a2d5d569de58e8a99d22eb365c79bf2f8fc7dac6b2a861c15",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1608712,
+  "share_pct": 0.241,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:c3597ae700ea29f8d75661e5e582966a857ce6ec33d6fe7ad69dc371b766c258",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1602522,
+  "share_pct": 0.24,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:01c78ff6d68448805e26ed7eee0b5d7f2180bc1ca75a56901c7f5f078225a5bf",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1589523,
+  "share_pct": 0.238,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:c97e4b4c6fb40c87851fa8d3b65dae99078b509bdfe6268b5131fc09e01765eb",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1565811,
+  "share_pct": 0.235,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:d02155489ad88d83b3b87df90dd4dadf429934fed703ad2d7cd8898796aa747a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1554226,
+  "share_pct": 0.233,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:fe997999fa0e0aa28fb6f2e072ad2ff035fa0080ce89704b5a494e45fb3bf3fb",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1548144,
+  "share_pct": 0.232,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:0c62f85a5d74b354c1b545948d00131e83c033b8f7d3222a04f5ae16f8415bdb",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1547197,
+  "share_pct": 0.232,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:26c70627a30ebc18b21e6cd990216fa43a6db9112e55d6ba8d7ac93277012aa7",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1527259,
+  "share_pct": 0.229,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:4a43e3c57746ada872baf0684c825bb18819b77fd7fbc33befde9d09fed6f459",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1510071,
+  "share_pct": 0.226,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:e20326dec7db33051288db4329d3edd0a7f31e476710591792b66b7c780b4d1e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1507515,
+  "share_pct": 0.226,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:88ef9f2071d899c42eb1d726b76b7a95ca44714c08caa6b2870f0295eeeae91d",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1496930,
+  "share_pct": 0.224,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:9acf48b3e8895e7999b1ab6a3e6f03e07c6364b48ba4b4726afed0022aba6c14",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1462074,
+  "share_pct": 0.219,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:66270d7e99ac22908323d7c617a2c11cd499171a03f6ff82838952eb200fa431",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1460660,
+  "share_pct": 0.219,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:8b0443e0fb677cf56d4c04c9bae14d340544dca49d6d8e81cdb04ed3953c1c3f",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1455738,
+  "share_pct": 0.218,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:f3dd9e93683545a3d229fedd4af24282d67a211f7e3e4442ad2d3231470a00e2",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1455440,
+  "share_pct": 0.218,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:24bc77b1f3271e0a5186b23ac1a9b89414000eff4d6a890ba023c78ea35c4b3e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1431627,
+  "share_pct": 0.214,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:da5b350eb6fde81340f6c2c1105807a22a93938be0f5665dd0d968f50198cf4d",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1425727,
+  "share_pct": 0.214,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:d2d023d8639a286efe8fb2e25ffe18ef5a22039294e49159d8be807febea9aef",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1421701,
+  "share_pct": 0.213,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:a90bfe2c8dd780d52d6dee417a6762b8f9ef9c1cd08bd78a5aaa2c3df121e590",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1397565,
+  "share_pct": 0.209,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:1aa65aa53e8c74ab79ac0e003a733aa2e5b092fd4a30ba66913ebccec0908dc1",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1377095,
+  "share_pct": 0.206,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:0912901ca709cb2f3475deabede3ee0462708f52d934773b6888171a17b00869",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1368715,
+  "share_pct": 0.205,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:c275e20d99b9491347276a762f29f22c04f726e62ceb1907a1bb27039fc752cb",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1316245,
+  "share_pct": 0.197,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:3117a1dc6ddcfd6598b361710db7dd95231c92963b2d2407f957afbf345298ea",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1292875,
+  "share_pct": 0.194,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:ca72d735e54ddd5673ab9aebbf582d9b25312e7fa25cb0bed3f544d67ceab108",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1272740,
+  "share_pct": 0.191,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:75b1096d9b0d8115cd161d251ca633c66f293b4143fdefbd8f7737c0e03d650d",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1229399,
+  "share_pct": 0.184,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:ab5856bf34672cf7129807b55a195aa36918e2804733c464a5f389614a131572",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1227000,
+  "share_pct": 0.184,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:19869fec687b6501d659021f808421f2d680377665766fc989f0b283c71bfc63",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1219782,
+  "share_pct": 0.183,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:8bcf1a4261782da694b8fa3fe23ec99c81b89df44918e9b584b4f32256b1346f",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1212721,
+  "share_pct": 0.182,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:99251dcb38dd27cca25e28e06f5196ca87d8fd91d9c1a7ef6007a8a28beafe58",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1205464,
+  "share_pct": 0.181,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:512691c3e86279f2abf50698c969d3d4bd4fce444789f463fec7a6c142988dd2",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1178278,
+  "share_pct": 0.177,
+  "interfaces": [
+   "lockup_vesting"
+  ]
+ },
+ {
+  "address": "0:d20dd84d780cde5df7b1b3adf857bf100e26c7d959fcb2863b21651c77ecff4d",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1170772,
+  "share_pct": 0.175,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:56bec39673e2922c79a7f2bef6ef77f5ad6e9d66f4a35428ce8f7722f99c50e9",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1170772,
+  "share_pct": 0.175,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:98a75f20a0bb4b49eba88a2561cb670cb320162b6e77cb94c461f0e3f749a190",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1158269,
+  "share_pct": 0.174,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:bc1469de73fc385185c2b9484702067037baef2380269edcd6a0e950c3f6f74e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1142358,
+  "share_pct": 0.171,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:8b5eebbfb2fd795ba8170d39a39178f5cc6431b73326d5f62c5b85504377c60f",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1138682,
+  "share_pct": 0.171,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:8c792b27cf435d61c746209a9fa623d38f85c054498e553645de80a0410399a4",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1135387,
+  "share_pct": 0.17,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:8e82042e4d3f3357941cdf5954de13209b953ddd17803488d434a5014d9f777e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1127083,
+  "share_pct": 0.169,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:7a71fa22ff7fdc179320b1c477b5316193552c76c13585002a2adc80bf16395f",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1120556,
+  "share_pct": 0.168,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:29bdafaaf5c2cb6e0fc38a5c592809b10ee062d2fea42b8acb3e96a1a3dac905",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1117999,
+  "share_pct": 0.168,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:ece919428ef5e096fb681b8ae30c59c8878f54e209b5aabd96bd4efdaf384801",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1117937,
+  "share_pct": 0.167,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:794842ffd8ffdc453201f16d4b674f2e92ce1f3a92b36418d3342f3c1606e213",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1113288,
+  "share_pct": 0.167,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:1d0c4581d7feb784ff4de25834dc955efbcfbd153718ee7b283bc3d10bb18980",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1107482,
+  "share_pct": 0.166,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:7270f227122fb10cb1fbb8a54820ca1008c260e7818f830c7f210c9832ab3eef",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1106880,
+  "share_pct": 0.166,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "-1:71bb6152734272744227ccbb83f50814e2e9323dab341efed9ce7569c9475d23",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1106758,
+  "share_pct": 0.166,
+  "interfaces": [
+   "lockup_vesting"
+  ]
+ },
+ {
+  "address": "0:7ab201734ea40554646bbb6531f17c2361d19d3e91c5b02f2f2ad554cae85b8b",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1105458,
+  "share_pct": 0.166,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:e57825f9eb97d40af8c993108904a0552a7fd1c581ce773052797ace8cfee395",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1100549,
+  "share_pct": 0.165,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:68cbff3eeccc53be5416a320aa55ceaf933ff16befe6fc00e6f372b7b3a73229",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1096822,
+  "share_pct": 0.164,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:510a131366b30f8416204494edf045bd23cd4fcf5ff522f1c9d7cec1fb248dce",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1095291,
+  "share_pct": 0.164,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "0:8964bc6e692a3809462b69f6a8f2a3ac485fcf7da7d8578b0f53980c93c204e0",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1091670,
+  "share_pct": 0.164,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:e9d864419c6a77fbc1d2ec7afe840c1c349fcc1d2e19520fc73f547dd1721e9e",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1071500,
+  "share_pct": 0.161,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:ff538f7116bb1fcb466dec3672a196f2a05aa4c3e7d0131e3453959b71478fda",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1061247,
+  "share_pct": 0.159,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:87f6d11c2fcb23321b3a85c0ddc4f6806a9623d0769c703da5664182d0f628b6",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1058817,
+  "share_pct": 0.159,
+  "interfaces": [
+   "tv_pool"
+  ]
+ },
+ {
+  "address": "0:71afc7a2533d6645da62354ec94c16c1ba1d1caf86fca447a47c96b2678ffd99",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1055000,
+  "share_pct": 0.158,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:13762b069bf01807b65398387df3aec8ca85f4d9c4391b418f301389cfee2994",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1053344,
+  "share_pct": 0.158,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "0:24b28b5816f1b41ce9bd166d45284a6c428c801eb6b2890670ab490fad141327",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1048341,
+  "share_pct": 0.157,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:46f190738d6666a540a6a5a2709ae8ab4e3cd72bfcced85d4984f8df46a4e10f",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1030736,
+  "share_pct": 0.154,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:8c87bf81764aa53accb9098d2f61cb43d779bc487527a71de311cff97f689f09",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1021571,
+  "share_pct": 0.153,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:57516699fbb62f1bddcd78fb079dde701ba656e901389316a9d15a67ca34b8bd",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1020203,
+  "share_pct": 0.153,
+  "interfaces": [
+   "wallet_v1r3"
+  ]
+ },
+ {
+  "address": "-1:07fdddf68a769856d336f23554c4e13ee2072505739d51682935a40f27e570b1",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 1003619,
+  "share_pct": 0.15,
+  "interfaces": []
+ },
+ {
+  "address": "-1:16d6f0a9035b6bf71afa4125d2c5c552767d529bb4985ff3c259074295a5a16a",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 956794,
+  "share_pct": 0.143,
+  "interfaces": []
+ },
+ {
+  "address": "0:0184000ec479cac5c0039348353e9b4a977969ab5accd06d2c42a8d4ff1e7ed8",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 914130,
+  "share_pct": 0.137,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:0d72bf09fffb47c1ca1ea904a788d87fb9656c6a50419a4922d3be2f3b218b54",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 908558,
+  "share_pct": 0.136,
+  "interfaces": [
+   "lockup_vesting"
+  ]
+ },
+ {
+  "address": "0:86ae115e48022d5f8346f5ce823beaf6003599886ba371f51a27c941f97ec163",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 907968,
+  "share_pct": 0.136,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ },
+ {
+  "address": "-1:548c0f520b038d7beecd0b599c7b992d09bb4dfeeca2c267f8574542f43fac67",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 879591,
+  "share_pct": 0.132,
+  "interfaces": []
+ },
+ {
+  "address": "0:b8e186732558045b20bd8860375a3af7c3799198c18ed698b1c70e71d798ed26",
+  "label": null,
+  "nodes": 1,
+  "stake_ton": 822183,
+  "share_pct": 0.123,
+  "interfaces": [
+   "single_nominator_pool"
+  ]
+ }
+]
