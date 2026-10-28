@@ -19,8 +19,22 @@ In February 2023 validators voted to suspend inactive early-miner wallets for 48
 
 - The difference of about 2,400 TON is incoming transfers that other people sent to these wallets since the freeze (2,454 TON credited), minus storage fees. The wallets can still receive; they cannot send.
 - On 21 Feb 2023, the day the vote closed, 9 of these wallets sent a total of 24,802.86 TON in 12 transfers between 05:18 and 21:32 UTC. After that day no transaction signed by an owner appears on any of the 179 wallets.
-- The all-zero address is also listed in parameter 44. It holds 10,714 TON and receives many small transfers; we read its latest 20,000 transactions (since 19 Jul 2026), none of which sends value. Its full history was not read.
+- The all-zero address is also listed in parameter 44. It is not a miner wallet; see the next section.
 - What the ledger cannot show: attempts that were refused before reaching the chain. A suspended account's external messages are rejected by validators and leave no trace.
+
+### Side finding: the all-zero address `0:000…0`
+Parameter 44 lists, next to the 179 miner wallets, the address made only of zeros. It is not a wallet of anyone: it has never been deployed (status `uninit`), and deploying it would need contract code whose hash is exactly zero, which nobody can produce. Coins sent there cannot be moved by anyone, with or without the suspension.
+
+Many people send coins there anyway. In the latest 20,000 transactions we read (19 Jul to 28 Oct 2026):
+| | From the ledger |
+|---|---|
+| Distinct senders | **18,841** |
+| Received in this window | 3,881 TON |
+| Transfers below 0.01 TON / below 1 TON / 1 TON or more | 16,685 / 3,268 / 33 (14 with no value) |
+| Transfers sent out | **none** |
+| Balance today | 10,714 TON |
+
+We do not know why each sender chose this address: as a deliberate burn, as a default or placeholder in an app, by mistake, or as spam. The ledger shows only that the coins arrive and stay. The full history before 19 Jul 2026 was not read. We report the zero address apart so that it does not distort the result for the miner wallets above.
 
 Files: `results/frozen/summary.json`, `accounts.json` (every wallet with balance and counts), `outgoing.json` (the 12 transfers of 21 Feb 2023).
 
