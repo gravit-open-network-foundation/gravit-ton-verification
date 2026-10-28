@@ -1,6 +1,6 @@
 # Gravit × TON (GRAM): independent re-check from the public ledger
 
-**Experiment TN-01 · status: research, read-only, public data only · work in progress**
+**Experiment TN-01 · status: research, read-only, public data only · parts 1 to 5 done, 28 Oct 2026**
 
 TON (GRAM) has been the subject of many claims, good and bad. This repository separates what the public ledger shows from what it does not, with an open method anyone can rerun. It makes no accusations and is not an audit.
 
@@ -78,9 +78,46 @@ The total amount of TON (GRAM) is kept by the network itself, in the field `glob
 
 Files: `results/supply/summary.json`; evidence with the raw proofs in `evidence/supply/evidence.json`.
 
-## Coming next
-4. Largest holders, matched against public disclosures (for example TON Strategy filings with the SEC).
-5. Rumours and facts: public claims about TON, each marked confirmed, not confirmed or opinion, with sources.
+## Part 4: the largest accounts (done, 28 Oct 2026)
+The 200 largest accounts by balance (toncenter.com), each balance cross-checked with tonapi.io (largest difference 1,223 TON, explained by the seconds between the two reads) and classified with the results of parts 1 and 2. Shares are of the total supply from part 3.
+
+| | From the ledger |
+|---|---|
+| Largest account | the **Elector**, the protocol contract that holds validator stakes: 1,371,209,613 TON, **25.97 %** |
+| Top 10 / top 100 / top 200 accounts | **66.11 %** / 92.23 % / 94.49 % of all TON |
+| Held by the Elector, the TON Believers Fund locker (1,245,901,480 TON, 23.60 %) and the suspended miner wallets (20.48 %) | **70.05 %**: staked, locked or suspended |
+| Wallets and undeployed addresses among the top 200 | 145 accounts, **23.6 %** |
+
+- Counting accounts makes TON look far more concentrated than the coins anyone can move today: seven tenths of the supply is staked, locked by contract or suspended by the validators' vote.
+- The largest freely movable accounts are labelled by tonapi.io: `thedns-tg-channell.ton` (248.2 million TON, 4.70 %), **Telegram** (102.4 million TON, 1.94 %, the same address that owns 108.7 million TON of validator stake in part 2), `tme-funstat.ton` (99.3 million), **Fragment** (95.4 million and 36.4 million).
+- Labels are of two kinds. Some are set by the data provider (Elector, TON Believers Fund, Telegram, Fragment). Others, ending in `.ton`, are names the owner registered for the address; anyone can register such a name, so it says nothing about who the owner is.
+- 25 of the 200 accounts carry a label. The ledger names no one; everything else is an address.
+
+Files: `results/holders/summary.json`, `accounts.json` (all 200 with kind, label and share).
+
+## Part 5: rumours and facts (28 Oct 2026)
+Public claims about TON, each set against what this repository can show from the ledger. **Confirmed**: the ledger shows it. **Not confirmed**: the ledger shows otherwise. **Cannot be checked**: the ledger cannot tell. Sources are listed for every claim.
+
+| Claim | Verdict | What the ledger shows |
+|---|---|---|
+| "TON is deflationary, fees are burned" | **Not confirmed** | Half of all fees is burned (param 5), but block rewards are far larger: the supply grew by 130.5 million TON in the last 12 months and grows at about 4 % a year now (part 3). |
+| "Net inflation is about 0.6 % a year" | **Outdated** | True from Oct 2024 to Oct 2025 (0.62 %). Since July 2026 about 4 % a year, because blocks are about six times as frequent as in 2024 (part 3). |
+| "Staking yield rose in 2026" | **Consistent with the ledger** | The block rate doubled: 1.24 masterchain blocks per second on average from Oct 2025 to Jul 2026, about 2.4 since July, and each block carries a fixed reward. TON Strategy reported 2.2 million TON earned in Q1 2026 on 221.2 million staked (about 4 % a year); press reports give about 1.5 % for May alone. The company figures themselves cannot be checked. |
+| "About 1.08 billion TON of early miners are frozen until February 2027" | **Confirmed** | 179 wallets, 1,081,391,803 TON, suspended until 21 Feb 2027 06:00 UTC, nothing sent out since the vote (part 1). |
+| "Telegram controls the network" | **Partly confirmed** | No single operator holds one third of the stake. The largest holds 16.3 % and is labelled Telegram by tonapi.io; seven operators together hold more than one third (part 2). The ledger cannot prove who owns the address. |
+| "Telegram stakes 2.2 million / 28.2 million TON / USD 191 million" | **Not confirmed** | The Telegram-labelled owner has 108.7 million TON in the current validator round and 102.4 million TON in its wallet (parts 2 and 4). |
+| "TON Strategy holds about 4.29 % of all Toncoin" (SEC 8-K, 31 Mar 2026) | **Arithmetic consistent; holdings cannot be checked** | 221.9 million TON is 4.2 to 4.3 % of the supply the ledger shows for that period (part 3). The company has not published its addresses. |
+| "TON staked through TON Strategy's infrastructure is 26.18 % of the network" (same filing) | **Cannot be checked** | In the current round no stake owner other than the Telegram-labelled one holds more than 5.1 % (part 2). Stake spread across many owners or pools cannot be matched to a company without published addresses. |
+| "The network was down for more than seven hours in August 2024" | **Partly confirmed** | The masterchain made no block for **5 h 50 min**, from 27 Aug 2024 22:11:46 to 28 Aug 04:01:52 UTC (blocks 39,987,437 and 39,987,438). Services such as exchanges may have been out longer. |
+| "A 40 minute outage on 1 June 2025" | **Longer than reported** | No masterchain block for **67 minutes**, 12:15:31 to 13:22:20 UTC (blocks 48,400,109 and 48,400,110). |
+| "A few accounts hold most of TON" | **Confirmed, with a caveat** | The top 10 accounts hold 66 % of the supply, but 70 % of the supply is staked, locked or suspended (part 4). |
+| "People burn TON by sending it to the zero address" | **Confirmed as an observation** | 18,841 distinct senders in 100 days; nothing can ever leave that address (part 1). Their motives cannot be seen. |
+| "Hacks on TON": TAC bridge, May 2026, about USD 2.8 million; Triple-A hot wallets, 2026 | **Reported by the projects; not a failure of the TON protocol** | Both are incidents of applications built on or connected to TON, described in their own post-mortems. Not re-checked here. |
+| "Affluent lost about USD 1 million in a hack" | **No public source found** | We found no report or post-mortem. Until one appears, this is a rumour. |
+
+Sources: TON Strategy 8-K, Q1 2026, [sec.gov](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022417/ex99-1.htm); TON Strategy yield, [BeInCrypto](https://beincrypto.com/ton-strategy-staking-yield-jumps/); fee burn proposal, [The Block](https://www.theblock.co/post/232879/ton-foundation-proposes-burning-50-of-validator-rewards); 0.6 % inflation, [CoinShares](https://coinshares.com/insights/research-data/the-open-network-ton-an-institutional-research-note/) and [MEXC](https://www.mexc.com/price/TON/tokenomics); outage August 2024, [The Block](https://www.theblock.co/post/313367/ton-blockchain-now-down-six-hours) and [Decrypt](https://decrypt.co/246736/telegram-linked-ton-blockchain-down-binance-bybit-suspend-trading); outage June 2025, [CryptoNews](https://cryptonews.com.au/news/ton-blockchain-briefly-halts-block-production-in-swift-40-minute-outage-129278); TAC bridge, [post-mortem](https://tac.build/blog/post-mortem-report-tac-bridge); centralisation debate, [Blockworks](https://blockworks.co/news/empire-newsletter-ton-outage-centralization). Telegram stake figures: see part 2.
+
+Files: `results/outages/summary.json`.
 
 ## Reproduce
 ```
@@ -91,6 +128,10 @@ python3 -m ton_verify.validators verify   # offline
 pip install -r requirements.txt           # part 3 reads Merkle proofs with pytoniq-core
 python3 -m ton_verify.supply fetch        # a few minutes
 python3 -m ton_verify.supply verify       # offline: checks every proof
+python3 -m ton_verify.holders fetch       # about 5 minutes
+python3 -m ton_verify.holders verify      # offline
+python3 -m ton_verify.outages fetch       # a few minutes
+python3 -m ton_verify.outages verify      # offline
 ```
 
 Apache 2.0. Gravit Open Network Foundation.

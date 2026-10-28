@@ -1,0 +1,22 @@
+[
+  {
+    "name": "27-28 Aug 2024 (DOGS launch)",
+    "last_block_before_utc": "2024-08-27 22:11:46",
+    "first_block_after_utc": "2024-08-28 04:01:52",
+    "pause_minutes": 350.1,
+    "masterchain_blocks": [
+      39987437,
+      39987438
+    ]
+  },
+  {
+    "name": "1 Jun 2025",
+    "last_block_before_utc": "2025-06-01 12:15:31",
+    "first_block_after_utc": "2025-06-01 13:22:20",
+    "pause_minutes": 66.8,
+    "masterchain_blocks": [
+      48400109,
+      48400110
+    ]
+  }
+]

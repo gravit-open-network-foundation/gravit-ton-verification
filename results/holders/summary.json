@@ -1,0 +1,79 @@
+{
+  "fetched_at": "2026-10-28T14:46:34Z",
+  "total_supply_ton": 5279407872.572,
+  "accounts_read": 200,
+  "top1_pct": 25.97,
+  "top10_pct": 66.11,
+  "top50_pct": 87.88,
+  "top100_pct": 92.23,
+  "top200_pct": 94.49,
+  "by_kind": {
+    "elector (validator stakes held by the protocol)": {
+      "accounts": 1,
+      "ton": 1371209613,
+      "share_of_supply_pct": 25.97
+    },
+    "contract: locker": {
+      "accounts": 1,
+      "ton": 1245901480,
+      "share_of_supply_pct": 23.6
+    },
+    "suspended early-miner wallet (part 1)": {
+      "accounts": 33,
+      "ton": 1081090094,
+      "share_of_supply_pct": 20.48
+    },
+    "wallet": {
+      "accounts": 116,
+      "ton": 933605497,
+      "share_of_supply_pct": 17.68
+    },
+    "unknown or not deployed": {
+      "accounts": 26,
+      "ton": 207378817,
+      "share_of_supply_pct": 3.93
+    },
+    "owner of validator stake (part 2)": {
+      "accounts": 3,
+      "ton": 104863194,
+      "share_of_supply_pct": 1.99
+    },
+    "staking pool or validator": {
+      "accounts": 11,
+      "ton": 16574218,
+      "share_of_supply_pct": 0.31
+    },
+    "contract: nft_collection": {
+      "accounts": 1,
+      "ton": 7963569,
+      "share_of_supply_pct": 0.15
+    },
+    "contract: multisig_v2": {
+      "accounts": 2,
+      "ton": 6013858,
+      "share_of_supply_pct": 0.11
+    },
+    "contract: jetton_wallet": {
+      "accounts": 2,
+      "ton": 5967138,
+      "share_of_supply_pct": 0.11
+    },
+    "contract: whales_pool": {
+      "accounts": 2,
+      "ton": 4947145,
+      "share_of_supply_pct": 0.09
+    },
+    "contract: dedust_vault": {
+      "accounts": 1,
+      "ton": 1857122,
+      "share_of_supply_pct": 0.04
+    },
+    "contract: storm_vault": {
+      "accounts": 1,
+      "ton": 996465,
+      "share_of_supply_pct": 0.02
+    }
+  },
+  "largest_provider_difference_ton": 1223.288,
+  "labelled": 25
+}
