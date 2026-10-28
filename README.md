@@ -46,8 +46,25 @@ Current validator round (elected at unix time 1793150728), read from the public 
 
 Files: `results/validators/summary.json`, `operators.json`, `stake_owners.json`.
 
+## Part 3: total supply and how fast it grows (done, 28 Oct 2026)
+The total amount of TON (GRAM) is kept by the network itself, in the field `global_balance` of the masterchain state. We read it from Merkle proofs and check the chain of hashes: block hash, state proof, config proof. The block hash is cross-checked with a second provider (toncenter.com).
+
+| Date (UTC) | Masterchain block | Total supply | Growth, per year |
+|---|---|---|---|
+| 28 Oct 2026 | 101,885,639 | **5,279,407,873 TON** | |
+| 28 Sep 2026 | 95,623,086 | 5,262,300,594 TON | **3.96 %** (last 30 days) |
+| 30 Jul 2026 | 82,940,437 | 5,228,155,841 TON | 3.98 % (last 90 days) |
+| 28 Oct 2025 | 53,419,437 | 5,148,879,594 TON | 2.54 % (last 12 months) |
+| 28 Oct 2024 | 41,478,629 | 5,116,987,617 TON | 0.62 % (Oct 2024 to Oct 2025) |
+
+- New coins come only from block rewards, fixed in configuration parameter 14: 1.7 TON per masterchain block and 1 TON per basechain block. Half of all transaction fees is burned (parameter 5).
+- The growth rate went up because blocks became faster, not because the rules changed. Masterchain blocks per second: 0.38 (Oct 2024 to Oct 2025), 1.24 (Oct 2025 to Jul 2026), about 2.4 since July 2026. Every block carries the same reward, so more blocks per day means more new coins per day.
+- At the current pace the supply grows by about 208 million TON a year, close to 4 %. This is net of burned fees.
+- What this part does not show: the split between rewards and burned fees block by block, and the history of parameter 14. We read the parameters as they are today.
+
+Files: `results/supply/summary.json`; evidence with the raw proofs in `evidence/supply/evidence.json`.
+
 ## Coming next
-3. Supply: total, issuance to validators, fees burned.
 4. Largest holders, matched against public disclosures (for example TON Strategy filings with the SEC).
 5. Rumours and facts: public claims about TON, each marked confirmed, not confirmed or opinion, with sources.
 
@@ -57,6 +74,9 @@ python3 -m ton_verify.frozen fetch    # public API tonapi.io, about 1 hour
 python3 -m ton_verify.frozen verify   # offline
 python3 -m ton_verify.validators fetch    # about 20 minutes
 python3 -m ton_verify.validators verify   # offline
+pip install -r requirements.txt           # part 3 reads Merkle proofs with pytoniq-core
+python3 -m ton_verify.supply fetch        # a few minutes
+python3 -m ton_verify.supply verify       # offline: checks every proof
 ```
 
 Apache 2.0. Gravit Open Network Foundation.

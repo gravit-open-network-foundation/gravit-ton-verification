@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-28T13:37:30Z",
+  "rules": {
+    "block_reward_masterchain_ton": 1.7,
+    "block_reward_basechain_ton": 1.0,
+    "share_of_fees_burned": "1/2",
+    "burn_address": "-1:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  "points": [
+    {
+      "days_back": 0,
+      "date_utc": "2026-10-28 13:37",
+      "seqno": 101885639,
+      "block_hash_matches_toncenter": true,
+      "total_supply_ton": 5279407872.572
+    },
+    {
+      "days_back": 30,
+      "date_utc": "2026-09-28 13:37",
+      "seqno": 95623086,
+      "block_hash_matches_toncenter": true,
+      "total_supply_ton": 5262300594.222,
+      "change_to_today_ton": 17107278.35,
+      "per_year_pct": 3.955,
+      "masterchain_blocks_to_next_point": 6262553,
+      "masterchain_blocks_per_second": 2.416
+    },
+    {
+      "days_back": 90,
+      "date_utc": "2026-07-30 13:37",
+      "seqno": 82940437,
+      "block_hash_matches_toncenter": true,
+      "total_supply_ton": 5228155841.172,
+      "change_to_today_ton": 51252031.4,
+      "per_year_pct": 3.976,
+      "masterchain_blocks_to_next_point": 12682649,
+      "masterchain_blocks_per_second": 2.446
+    },
+    {
+      "days_back": 365,
+      "date_utc": "2025-10-28 13:37",
+      "seqno": 53419437,
+      "block_hash_matches_toncenter": true,
+      "total_supply_ton": 5148879594.172,
+      "change_to_today_ton": 130528278.4,
+      "per_year_pct": 2.535,
+      "masterchain_blocks_to_next_point": 29521000,
+      "masterchain_blocks_per_second": 1.242
+    },
+    {
+      "days_back": 730,
+      "date_utc": "2024-10-28 13:37",
+      "seqno": 41478629,
+      "block_hash_matches_toncenter": true,
+      "total_supply_ton": 5116987617.197,
+      "change_to_today_ton": 162420255.375,
+      "per_year_pct": 1.587,
+      "masterchain_blocks_to_next_point": 11940808,
+      "masterchain_blocks_per_second": 0.379
+    }
+  ]
+}
