@@ -1,0 +1,14 @@
+{
+  "taken_utc": "2026-10-29T15:45Z",
+  "source": "tonapi.io /v2/blockchain/validators and /config",
+  "config_param_17_min_stake_gram": 300000.0,
+  "validators": 374,
+  "smallest_elected_stake_gram": 822708.19847,
+  "median_stake_gram": 1735785.039569964,
+  "node_source": {
+    "tag": "v2026.10",
+    "commit": "857b8a57a178e6ae0fe7fa86e7d81c5233de8560",
+    "MAX_PUBLIC_OVERLAY_WARMUP_PERIOD_s": 600,
+    "MAX_FAST_SYNC_OVERLAY_CLIENTS": 5
+  }
+}

@@ -119,6 +119,23 @@ Sources: TON Strategy 8-K, Q1 2026, [sec.gov](https://www.sec.gov/Archives/edgar
 
 Files: `results/outages/summary.json`.
 
+## Addendum: node update v2026.10 and who receives new blocks (29 Oct 2026)
+
+On 19 Oct 2026 TON released node v2026.10 (mandatory). Its first item: "Removed validators and collators from public overlays, improving their stability." A public Telegram post (@investkingyru, "Децентрализация по пропускам") argued that independent nodes now depend on validators for timely data. We checked each claim against the release, the source code at tag `v2026.10` (commit `857b8a5`) and the open issue tracker.
+
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Validators and collators left the public overlays on 19 Oct | **Confirmed** | [release v2026.10](https://github.com/ton-blockchain/ton/releases/tag/v2026.10), [PR #2576](https://github.com/ton-blockchain/ton/pull/2576) |
+| They re-open the public overlays only shortly before their term ends | **Confirmed**: at most the last 600 s | [`validator/full-node.cpp` L72, L392–L424](https://github.com/ton-blockchain/ton/blob/857b8a57a178e6ae0fe7fa86e7d81c5233de8560/validator/full-node.cpp#L392-L424) |
+| New blocks are broadcast only to fast-sync and custom overlays | **Confirmed** | [`send_broadcast`](https://github.com/ton-blockchain/ton/blob/857b8a57a178e6ae0fe7fa86e7d81c5233de8560/validator/full-node.cpp#L539-L561) |
+| A node gets fast-sync only if a validator admits it | **Confirmed**: `add-fast-sync-overlay-client`, at most **5** slots per validator, no public request path in the code | [`full-node.h` L189](https://github.com/ton-blockchain/ton/blob/857b8a57a178e6ae0fe7fa86e7d81c5233de8560/validator/full-node.h#L189) |
+| Independent liteservers now fall behind | **Reported by several operators**, issue open, no maintainer reply as of 29 Oct: up to 4,764 s / ~3,900 blocks of lag since 21 Oct, while TON Core's public liteservers stay 1–4 s behind | [issue #2612](https://github.com/ton-blockchain/ton/issues/2612) |
+| Own validator costs "almost 1 million GRAM" | **About right**: formal minimum 300,000 GRAM (config param 17), but the smallest elected stake today is **822,708 GRAM** (374 validators, median 1.74 million) | `results/v2026_10/snapshot.json` |
+| Delay and delivery figures quoted from the TON Dev Chat | **Not checked**: no public archive | n/a |
+| "A private chain like Canton" | **Opinion**. Blocks and state stay public; what changed is who gets them first | n/a |
+
+Link to Part 2: seven operators hold more than a third of the stake. Since v2026.10 the validators also decide which outside nodes receive new blocks without delay.
+
 ## Reproduce
 ```
 python3 -m ton_verify.frozen fetch    # public API tonapi.io, about 1 hour
